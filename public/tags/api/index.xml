@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>API on Quality Tech Rider</title>
+    <link>http://localhost:1313/tags/api/</link>
+    <description>Recent content in API on Quality Tech Rider</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language></language>
+    <lastBuildDate>Tue, 02 Jul 2024 20:18:08 +0530</lastBuildDate><atom:link href="http://localhost:1313/tags/api/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Request Headers and Response Headers</title>
+      <link>http://localhost:1313/techblogs/techblogs/</link>
+      <pubDate>Tue, 02 Jul 2024 20:18:08 +0530</pubDate>
+      
+      <guid>http://localhost:1313/techblogs/techblogs/</guid>
+      <description>&lt;h2 id=&#34;what-are-request-headers&#34;&gt;What are Request Headers?&lt;/h2&gt;
+&lt;p&gt;In simple terms additional meta-data sent by the client to server are called Request Headers , some of the main important request headers are as below&lt;/p&gt;
+&lt;h2 id=&#34;1user-agent-&#34;&gt;1)User-Agent :&lt;/h2&gt;
+&lt;pre&gt;&lt;code&gt;This header reveals the client identity such as browser name, browser version,OS version etc.
+&lt;/code&gt;&lt;/pre&gt;
+&lt;h2 id=&#34;2connection-&#34;&gt;2)Connection :&lt;/h2&gt;
+&lt;pre&gt;&lt;code&gt;This header reveals the  State of connectivity between client and server , possibe values are {keep-alive;close}
+&lt;/code&gt;&lt;/pre&gt;
+&lt;h2 id=&#34;3accept-----&#34;&gt;3)Accept     :&lt;/h2&gt;
+&lt;pre&gt;&lt;code&gt;This header reveals the client prefernce format (eg .JSON,XML,HTML,XML,YAML etc) in which the server response to be sent to the client 
+&lt;/code&gt;&lt;/pre&gt;
+&lt;h2 id=&#34;4accept-lang&#34;&gt;4)Accept-Lang:&lt;/h2&gt;
+&lt;pre&gt;&lt;code&gt;This header reveals the client prefernce language (eg .EN-US,EN-IND,EN-GB etc) in which the server response to be sent to the client 
+&lt;/code&gt;&lt;/pre&gt;
+&lt;h2 id=&#34;5content-type&#34;&gt;5)Content-Type:&lt;/h2&gt;
+&lt;pre&gt;&lt;code&gt;This header reveals the type of content/format (eg.json,xml,html,yaml) which client vis sending the request body/payload to the server
+&lt;/code&gt;&lt;/pre&gt;
+&lt;h2 id=&#34;6authorization-&#34;&gt;6)Authorization :&lt;/h2&gt;
+&lt;pre&gt;&lt;code&gt;This header reveals the user auth details to the server to establish the client identity to the server
+&lt;/code&gt;&lt;/pre&gt;
+&lt;h2 id=&#34;ok-now-lets-understand-what-are-response-headers&#34;&gt;Ok, Now lets understand What are Response Headers&lt;/h2&gt;
+&lt;p&gt;In simple terms additional meta-data sent by the server to client are called Response Headers , some of the main important request headers are as below&lt;/p&gt;
+&lt;h2 id=&#34;1user-agent--1&#34;&gt;1)User-Agent :&lt;/h2&gt;
+&lt;pre&gt;&lt;code&gt;This header reveals the client identity such as browser name, browser version,OS version etc.
+&lt;/code&gt;&lt;/pre&gt;
+&lt;h2 id=&#34;2connection--1&#34;&gt;2)Connection :&lt;/h2&gt;
+&lt;pre&gt;&lt;code&gt;This header reveals the  State of connectivity between client and server , possibe values are {keep-alive;close}
+&lt;/code&gt;&lt;/pre&gt;
+&lt;h2 id=&#34;3accept------1&#34;&gt;3)Accept     :&lt;/h2&gt;
+&lt;pre&gt;&lt;code&gt;This header reveals the client prefernce format (eg .JSON,XML,HTML,XML,YAML etc) in which the server response to be sent to the client 
+&lt;/code&gt;&lt;/pre&gt;
+&lt;h2 id=&#34;4accept-lang-1&#34;&gt;4)Accept-Lang:&lt;/h2&gt;
+&lt;pre&gt;&lt;code&gt;This header reveals the client prefernce language (eg .EN-US,EN-IND,EN-GB etc) in which the server response to be sent to the client 
+&lt;/code&gt;&lt;/pre&gt;
+&lt;h2 id=&#34;5content-type-1&#34;&gt;5)Content-Type:&lt;/h2&gt;
+&lt;pre&gt;&lt;code&gt;This header reveals the type of content/format (eg.json,xml,html,yaml) which client vis sending the request body/payload to the server
+&lt;/code&gt;&lt;/pre&gt;
+&lt;h2 id=&#34;6authorization--1&#34;&gt;6)Authorization :&lt;/h2&gt;
+&lt;pre&gt;&lt;code&gt;This header reveals the user auth details to the server to establish the client identity to the server&lt;/code&gt;&lt;/pre&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

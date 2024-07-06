@@ -1,0 +1,135 @@
+[
+  {
+    "name": "Selenium",
+    "description": "Open Source Client-Server acrticecture based Web Automation Tool",
+    "link": "https://www.selenium.dev/",
+    "icon": "https://githubraw.com/aravindaru888/Automation_FW_NAL/69cd1565c5bd4994f53bac6675b0b81a733d0a76/src/main/java/com/qa/opencart/constants/selenium-logo-A1B53CEFB0-seeklogo.com.png",
+    "tag": "UI Test Automation"
+  },
+  {
+    "name": "HP-UFT",
+    "description": "Licensed Web Automation Tool",
+    "link": "https://arc.net/",
+    "icon": "https://raw.githubusercontent.com/skyth3r/skyth3r.github.io/master/assets/tools-images/arc.png",
+    "tag": "Utilities"
+  },
+  {
+    "name": "LeanFt",
+    "description": "Minimal writing app with markdown support",
+    "link": "https://bear.app/",
+    "icon": "https://raw.githubusercontent.com/skyth3r/skyth3r.github.io/master/assets/tools-images/bear.png",
+    "tag": "Utilities"
+  },
+  {
+    "name": "RestAssured",
+    "description": "Markdown based note taking app",
+    "link": "https://obsidian.md/",
+    "icon": "https://raw.githubusercontent.com/skyth3r/skyth3r.github.io/master/assets/tools-images/obsidian.png",
+    "tag": "Productivity"
+  },
+  {
+    "name": "PostMan",
+    "description": "What I use to review my highlights from books & articles",
+    "link": "https://readwise.io/i/akash56",
+    "icon": "https://raw.githubusercontent.com/skyth3r/skyth3r.github.io/master/assets/tools-images/readwise.png",
+    "tag": "Productivity"
+  },
+  {
+    "name": "Jmeter",
+    "description": "A powerful read it later app that integrates with Readwise",
+    "link": "https://readwise.io/read",
+    "icon": "https://raw.githubusercontent.com/skyth3r/skyth3r.github.io/master/assets/tools-images/reader.png",
+    "tag": "Productivity"
+  },
+  {
+    "name": "Gatling",
+    "description": "Cross platform bookmark manager",
+    "link": "https://raindrop.io/",
+    "icon": "https://raw.githubusercontent.com/skyth3r/skyth3r.github.io/master/assets/tools-images/raindrop.png",
+    "tag": "Utilities"
+  },
+  {
+    "name": "SQL",
+    "description": "A free and open source RSS reader for Mac, iPhone, and iPad",
+    "link": "https://netnewswire.com/",
+    "icon": "https://raw.githubusercontent.com/skyth3r/skyth3r.github.io/master/assets/tools-images/netnewswire.png",
+    "tag": "Utilities"
+  },
+  {
+    "name": "Jenkins",
+    "description": "My favourite Twitter writing/scheduling app",
+    "link": "https://typefully.com/?via=akash",
+    "icon": "https://raw.githubusercontent.com/skyth3r/skyth3r.github.io/master/assets/tools-images/typefully.png",
+    "tag": "Social"
+  },
+  {
+    "name": "Java",
+    "description": "Versatile note taking app",
+    "link": "https://www.notion.so/",
+    "icon": "https://raw.githubusercontent.com/skyth3r/skyth3r.github.io/master/assets/tools-images/notion.png",
+    "tag": "Productivity"
+  },
+  {
+    "name": "GitHub",
+    "description": "Source Code Management Tool",
+    "link": "https://github.com/",
+    "icon": "https://raw.githubusercontent.com/skyth3r/skyth3r.github.io/master/assets/tools-images/github.png",
+    "tag": "SCM/VCM"
+  },
+  {
+    "name": "Python",
+    "description": "My favourite terminal app for MacOS",
+    "link": "https://iterm2.com/",
+    "icon": "https://raw.githubusercontent.com/skyth3r/skyth3r.github.io/master/assets/tools-images/iterm.png",
+    "tag": "Coding"
+  },
+  {
+    "name": "PlayWrite",
+    "description": "Instant cloud development environment tool",
+    "link": "https://www.gitpod.io/",
+    "icon": "https://raw.githubusercontent.com/skyth3r/skyth3r.github.io/master/assets/tools-images/gitpod.png",
+    "tag": "Coding"
+  },
+  {
+    "name": "Maven",
+    "description": "Slack style emojo shortcuts for MacOS",
+    "link": "https://matthewpalmer.net/rocket/",
+    "icon": "https://raw.githubusercontent.com/skyth3r/skyth3r.github.io/master/assets/tools-images/rocket.png",
+    "tag": "Utilities"
+  },
+  {
+    "name": "BrowserStack",
+    "description": "Supercharged application launcher for MacOS",
+    "link": "https://www.raycast.com/",
+    "icon": "https://raw.githubusercontent.com/skyth3r/skyth3r.github.io/master/assets/tools-images/raycast.png",
+    "tag": "Utilities"
+  },
+  {
+    "name": "Appium",
+    "description": "Web based design tool",
+    "link": "https://www.figma.com/",
+    "icon": "https://raw.githubusercontent.com/skyth3r/skyth3r.github.io/master/assets/tools-images/figma.png",
+    "tag": "Design"
+  },
+  {
+    "name": "Intellij IDE",
+    "description": "Light weight source code editor",
+    "link": "https://code.visualstudio.com/",
+    "icon": "https://raw.githubusercontent.com/skyth3r/skyth3r.github.io/master/assets/tools-images/vs-code.png",
+    "tag": "Coding"
+  },
+  {
+    "name": "Eclipse IDE",
+    "description": "Feature packed IDE for Go",
+    "link": "https://www.jetbrains.com/go/",
+    "icon": "https://raw.githubusercontent.com/skyth3r/skyth3r.github.io/master/assets/tools-images/goland.png",
+    "tag": "Coding"
+  },
+  {
+    "name": "Excalidraw",
+    "description": "Virtual whiteboarding tool for sketching hand-drawn like diagrams",
+    "link": "https://excalidraw.com/",
+    "icon": "https://raw.githubusercontent.com/skyth3r/skyth3r.github.io/master/assets/tools-images/excalidraw.png",
+    "tag": "Utilities"
+  }
+]

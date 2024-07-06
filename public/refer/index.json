@@ -1,0 +1,28 @@
+{
+    "version" : "https://jsonfeed.org/version/1",
+    "title" : "Refers on Quality Tech Rider",
+    "description": "Recent content in Refers on Quality Tech Rider",
+    "home_page_url" : "http://localhost:1313/",
+    "feed_url" : "http://localhost:1313/refer/index.json",
+    "items" : [
+    {
+        "title" : "QuickLinksForReferences",
+        "date_published" : "2024-07-04T23:45:48+05:30",
+        "date_modified" : "2024-07-04T23:45:48+05:30",
+        "id" : "http://localhost:1313/refer/quicklinksforreferences/",
+        "url" : "http://localhost:1313/refer/quicklinksforreferences/",
+        "content_html" : "\u003cp\u003e\u003ca href=\"https://docs.gatling.io/reference/install/oss/\"  target=\"_blank\" rel=\"noopener\" \u003ehttps://docs.gatling.io/reference/install/oss/\u003c/a\u003e\u003c/p\u003e\n\u003cp\u003eImportant gatling commands\u003c/p\u003e\n\u003cp\u003e\u0026ndash;\u0026gt; mvnw.cmd gatling:recorder\u003c/p\u003e\n"
+    },
+    {
+        "title" : "Refer",
+        "date_published" : "2024-07-04T23:45:25+05:30",
+        "date_modified" : "2024-07-04T23:45:25+05:30",
+        "id" : "http://localhost:1313/refer/hugoreferences/",
+        "url" : "http://localhost:1313/refer/hugoreferences/",
+        "author" : {
+          "name" : "Aravind Yamana"
+        },
+        "content_html" : "\u003cp\u003eHugo is a fast and flexible static site generator written in Go. It’s particularly useful for building websites and blogs. Here are some essential Hugo commands that can help you efficiently manage your Hugo projects:\u003c/p\u003e\n\u003cp\u003eInstallation\nBefore using Hugo commands, ensure Hugo is installed on your system. You can install it using a package manager or download it directly from the Hugo releases page.\u003c/p\u003e\n\u003cp\u003eBasic Commands\nCreate a New Site\u003c/p\u003e\n\u003cp\u003ehugo new site \u003c!-- raw HTML omitted --\u003e\nThis command initializes a new Hugo site in the specified directory.\u003c/p\u003e\n\u003cp\u003eCreate a New Content File\u003c/p\u003e\n\u003cp\u003ehugo new \u003c!-- raw HTML omitted --\u003e\nFor example, to create a new post:\u003c/p\u003e\n\u003cp\u003ehugo new posts/my-first-post.md\nServe the Site Locally\u003c/p\u003e\n\u003cp\u003ehugo server\nThis command starts a local web server and watches for changes. The default address is http://localhost:1313.\u003c/p\u003e\n\u003cp\u003eBuild the Site\u003c/p\u003e\n\u003cp\u003ehugo\nBy default, this command generates the static site in the public directory.\u003c/p\u003e\n\u003cp\u003eConfiguration Commands\nCheck Hugo Version\u003c/p\u003e\n\u003cp\u003ehugo version\nThis command prints the current version of Hugo.\u003c/p\u003e\n\u003cp\u003eGenerate Site with Specific Config File\u003c/p\u003e\n\u003cp\u003ehugo \u0026ndash;config \u003c!-- raw HTML omitted --\u003e\nThis is useful if you have multiple configuration files and want to use a specific one.\u003c/p\u003e\n\u003cp\u003eDevelopment Commands\nList All Drafts\u003c/p\u003e\n\u003cp\u003ehugo list drafts\nThis command lists all draft content in your Hugo site.\u003c/p\u003e\n\u003cp\u003eEnable Drafts, Future, and Expired Content\u003c/p\u003e\n\u003cp\u003ehugo server -D\nThe -D flag ensures that drafts, future, and expired content are included when serving the site locally.\u003c/p\u003e\n\u003cp\u003eClear Cache\u003c/p\u003e\n\u003cp\u003ehugo \u0026ndash;ignoreCache\nThis command tells Hugo to build the site without using the cache.\u003c/p\u003e\n\u003cp\u003eDeployment Commands\nSpecify Output Directory\u003c/p\u003e\n\u003cp\u003ehugo -d \u003c!-- raw HTML omitted --\u003e\nFor example, to generate the site in the dist directory:\u003c/p\u003e\n\u003cp\u003ehugo -d dist\nMinify Output\u003c/p\u003e\n\u003cp\u003ehugo \u0026ndash;minify\nThis command generates the site with minified output for faster load times.\u003c/p\u003e\n\u003cp\u003eAdvanced Commands\nProfile Build Performance\u003c/p\u003e\n\u003cp\u003ehugo \u0026ndash;templateMetrics \u0026ndash;templateMetricints\nThese flags provide detailed metrics on template rendering times, which can help optimize your site\u0026rsquo;s performance.\u003c/p\u003e\n\u003cp\u003eUse a Specific Theme\u003c/p\u003e\n\u003cp\u003ehugo server -t \u003c!-- raw HTML omitted --\u003e\nThis command tells Hugo to use a specific theme when serving the site locally.\u003c/p\u003e\n\u003cp\u003eBuild for a Specific Environment\u003c/p\u003e\n\u003cp\u003ehugo \u0026ndash;environment \u003c!-- raw HTML omitted --\u003e\nFor example, to build for a production environment:\u003c/p\u003e\n\u003cp\u003ehugo \u0026ndash;environment production\nHelp Commands\nGet Help on a Specific Command\u003c/p\u003e\n\u003cp\u003ehugo help \u003c!-- raw HTML omitted --\u003e\nFor example, to get help on the new command:\u003c/p\u003e\n\u003cp\u003ehugo help new\nList All Available Commands\u003c/p\u003e\n\u003cp\u003ehugo help\nSummary\nThese commands cover the essential functionality needed to create, develop, and deploy a Hugo site. Hugo\u0026rsquo;s flexibility and extensive command-line options make it a powerful tool for managing static websites. For more detailed information on each command, you can always refer to the Hugo documentation.\u003c/p\u003e\n"
+    }
+    ]
+}

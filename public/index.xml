@@ -1,0 +1,198 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>About Me on Quality Tech Rider</title>
+    <link>http://localhost:1313/</link>
+    <description>Recent content in About Me on Quality Tech Rider</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language></language>
+    <lastBuildDate>Tue, 02 Jul 2024 19:49:00 +0530</lastBuildDate><atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>QuickLinksForReferences</title>
+      <link>http://localhost:1313/refer/quicklinksforreferences/</link>
+      <pubDate>Thu, 04 Jul 2024 23:45:48 +0530</pubDate>
+      
+      <guid>http://localhost:1313/refer/quicklinksforreferences/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;https://docs.gatling.io/reference/install/oss/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34; &gt;https://docs.gatling.io/reference/install/oss/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Important gatling commands&lt;/p&gt;
+&lt;p&gt;&amp;ndash;&amp;gt; mvnw.cmd gatling:recorder&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Refer</title>
+      <link>http://localhost:1313/refer/hugoreferences/</link>
+      <pubDate>Thu, 04 Jul 2024 23:45:25 +0530</pubDate>
+      
+      <guid>http://localhost:1313/refer/hugoreferences/</guid>
+      <description>&lt;p&gt;Hugo is a fast and flexible static site generator written in Go. It’s particularly useful for building websites and blogs. Here are some essential Hugo commands that can help you efficiently manage your Hugo projects:&lt;/p&gt;
+&lt;p&gt;Installation
+Before using Hugo commands, ensure Hugo is installed on your system. You can install it using a package manager or download it directly from the Hugo releases page.&lt;/p&gt;
+&lt;p&gt;Basic Commands
+Create a New Site&lt;/p&gt;
+&lt;p&gt;hugo new site &lt;!-- raw HTML omitted --&gt;
+This command initializes a new Hugo site in the specified directory.&lt;/p&gt;
+&lt;p&gt;Create a New Content File&lt;/p&gt;
+&lt;p&gt;hugo new &lt;!-- raw HTML omitted --&gt;
+For example, to create a new post:&lt;/p&gt;
+&lt;p&gt;hugo new posts/my-first-post.md
+Serve the Site Locally&lt;/p&gt;
+&lt;p&gt;hugo server
+This command starts a local web server and watches for changes. The default address is http://localhost:1313.&lt;/p&gt;
+&lt;p&gt;Build the Site&lt;/p&gt;
+&lt;p&gt;hugo
+By default, this command generates the static site in the public directory.&lt;/p&gt;
+&lt;p&gt;Configuration Commands
+Check Hugo Version&lt;/p&gt;
+&lt;p&gt;hugo version
+This command prints the current version of Hugo.&lt;/p&gt;
+&lt;p&gt;Generate Site with Specific Config File&lt;/p&gt;
+&lt;p&gt;hugo &amp;ndash;config &lt;!-- raw HTML omitted --&gt;
+This is useful if you have multiple configuration files and want to use a specific one.&lt;/p&gt;
+&lt;p&gt;Development Commands
+List All Drafts&lt;/p&gt;
+&lt;p&gt;hugo list drafts
+This command lists all draft content in your Hugo site.&lt;/p&gt;
+&lt;p&gt;Enable Drafts, Future, and Expired Content&lt;/p&gt;
+&lt;p&gt;hugo server -D
+The -D flag ensures that drafts, future, and expired content are included when serving the site locally.&lt;/p&gt;
+&lt;p&gt;Clear Cache&lt;/p&gt;
+&lt;p&gt;hugo &amp;ndash;ignoreCache
+This command tells Hugo to build the site without using the cache.&lt;/p&gt;
+&lt;p&gt;Deployment Commands
+Specify Output Directory&lt;/p&gt;
+&lt;p&gt;hugo -d &lt;!-- raw HTML omitted --&gt;
+For example, to generate the site in the dist directory:&lt;/p&gt;
+&lt;p&gt;hugo -d dist
+Minify Output&lt;/p&gt;
+&lt;p&gt;hugo &amp;ndash;minify
+This command generates the site with minified output for faster load times.&lt;/p&gt;
+&lt;p&gt;Advanced Commands
+Profile Build Performance&lt;/p&gt;
+&lt;p&gt;hugo &amp;ndash;templateMetrics &amp;ndash;templateMetricints
+These flags provide detailed metrics on template rendering times, which can help optimize your site&amp;rsquo;s performance.&lt;/p&gt;
+&lt;p&gt;Use a Specific Theme&lt;/p&gt;
+&lt;p&gt;hugo server -t &lt;!-- raw HTML omitted --&gt;
+This command tells Hugo to use a specific theme when serving the site locally.&lt;/p&gt;
+&lt;p&gt;Build for a Specific Environment&lt;/p&gt;
+&lt;p&gt;hugo &amp;ndash;environment &lt;!-- raw HTML omitted --&gt;
+For example, to build for a production environment:&lt;/p&gt;
+&lt;p&gt;hugo &amp;ndash;environment production
+Help Commands
+Get Help on a Specific Command&lt;/p&gt;
+&lt;p&gt;hugo help &lt;!-- raw HTML omitted --&gt;
+For example, to get help on the new command:&lt;/p&gt;
+&lt;p&gt;hugo help new
+List All Available Commands&lt;/p&gt;
+&lt;p&gt;hugo help
+Summary
+These commands cover the essential functionality needed to create, develop, and deploy a Hugo site. Hugo&amp;rsquo;s flexibility and extensive command-line options make it a powerful tool for managing static websites. For more detailed information on each command, you can always refer to the Hugo documentation.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>TipsAndTricksForGit</title>
+      <link>http://localhost:1313/tricksandtips/tipsandtricksforgit/</link>
+      <pubDate>Tue, 02 Jul 2024 22:20:46 +0530</pubDate>
+      
+      <guid>http://localhost:1313/tricksandtips/tipsandtricksforgit/</guid>
+      <description>&lt;h1 id=&#34;this-is-just-a-sample-tricks-page&#34;&gt;This is just a sample tricks page&lt;/h1&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>TechBlogs2</title>
+      <link>http://localhost:1313/techblogs/techblogs2/</link>
+      <pubDate>Tue, 02 Jul 2024 22:07:16 +0530</pubDate>
+      
+      <guid>http://localhost:1313/techblogs/techblogs2/</guid>
+      <description>&lt;h2 id=&#34;hi-everyone-this-is-my-second-post&#34;&gt;Hi everyone, This is my second post&lt;/h2&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Future Of Software Testing</title>
+      <link>http://localhost:1313/techblogs/futureoftesting/</link>
+      <pubDate>Tue, 02 Jul 2024 20:18:08 +0530</pubDate>
+      
+      <guid>http://localhost:1313/techblogs/futureoftesting/</guid>
+      <description>&lt;p&gt;The future of software testing is being shaped by several emerging areas. Here&amp;rsquo;s a closer look at AI/ML Testing, Security Testing, and Performance Engineering and Load Testing:&lt;/p&gt;
+&lt;h2 id=&#34;1-aiml-testing&#34;&gt;1. AI/ML Testing&lt;/h2&gt;
+&lt;p&gt;Artificial Intelligence (AI) and Machine Learning (ML) are revolutionizing software testing by introducing automation and intelligent analysis.&lt;/p&gt;
+&lt;h3 id=&#34;test-automation&#34;&gt;Test Automation:&lt;/h3&gt;
+&lt;p&gt;AI can automate repetitive tasks, reducing the need for manual testing and increasing efficiency. AI-driven tools can generate test scripts, execute tests, and analyze results automatically.&lt;/p&gt;
+&lt;h3 id=&#34;intelligent-test-generation&#34;&gt;Intelligent Test Generation:&lt;/h3&gt;
+&lt;p&gt;ML algorithms can analyze code changes and user behavior to predict the areas of an application most likely to contain defects, focusing testing efforts where they are needed most.&lt;/p&gt;
+&lt;h3 id=&#34;self-healing-tests&#34;&gt;Self-healing Tests:&lt;/h3&gt;
+&lt;p&gt;AI can adapt to changes in the application UI, making test scripts more resilient to changes and reducing maintenance efforts.&lt;/p&gt;
+&lt;h3 id=&#34;defect-prediction&#34;&gt;Defect Prediction:&lt;/h3&gt;
+&lt;p&gt;AI can predict potential defects and prioritize testing based on historical data, reducing the time and effort required to identify issues.&lt;/p&gt;
+&lt;h2 id=&#34;2-security-testing&#34;&gt;2. Security Testing&lt;/h2&gt;
+&lt;p&gt;As cyber threats become more sophisticated, security testing is increasingly critical.&lt;/p&gt;
+&lt;p&gt;Shift-Left Security: Integrating security testing early in the development lifecycle ensures vulnerabilities are identified and addressed sooner. This approach, known as &amp;ldquo;shift-left&amp;rdquo; testing, helps in building secure software from the ground up.
+Continuous Security Testing: Implementing continuous integration/continuous deployment (CI/CD) pipelines with integrated security testing ensures that every code change is tested for security vulnerabilities.
+Advanced Threat Simulation: Tools and techniques that simulate advanced threats can help identify vulnerabilities that traditional testing methods might miss.
+AI in Security Testing: AI can be used to detect unusual patterns and behaviors that might indicate a security breach, helping to prevent attacks in real-time.&lt;/p&gt;
+&lt;ol start=&#34;3&#34;&gt;
+&lt;li&gt;Performance Engineering and Load Testing
+Ensuring software performs well under various conditions is crucial for user satisfaction and business success.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;Shift-Left Performance Testing: Just like security, performance testing is moving earlier in the development cycle to catch issues sooner.
+Continuous Performance Monitoring: Integrating performance testing into CI/CD pipelines allows for continuous monitoring and optimization of performance.
+Scalability Testing: With the growing use of cloud services, testing for scalability to ensure applications can handle increasing loads without performance degradation is essential.
+AI in Performance Testing: AI can analyze performance data to identify patterns and predict potential performance issues before they occur.&lt;/p&gt;
+&lt;h1 id=&#34;conclusion-&#34;&gt;Conclusion :&lt;/h1&gt;
+&lt;p&gt;The future of software testing is being driven by advancements in AI/ML, increased focus on security, and the need for robust performance engineering. Adopting to these trends and learning the skills that are required would keep the testing jobs alive !&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Request Headers and Response Headers</title>
+      <link>http://localhost:1313/techblogs/techblogs/</link>
+      <pubDate>Tue, 02 Jul 2024 20:18:08 +0530</pubDate>
+      
+      <guid>http://localhost:1313/techblogs/techblogs/</guid>
+      <description>&lt;h2 id=&#34;what-are-request-headers&#34;&gt;What are Request Headers?&lt;/h2&gt;
+&lt;p&gt;In simple terms additional meta-data sent by the client to server are called Request Headers , some of the main important request headers are as below&lt;/p&gt;
+&lt;h2 id=&#34;1user-agent-&#34;&gt;1)User-Agent :&lt;/h2&gt;
+&lt;pre&gt;&lt;code&gt;This header reveals the client identity such as browser name, browser version,OS version etc.
+&lt;/code&gt;&lt;/pre&gt;
+&lt;h2 id=&#34;2connection-&#34;&gt;2)Connection :&lt;/h2&gt;
+&lt;pre&gt;&lt;code&gt;This header reveals the  State of connectivity between client and server , possibe values are {keep-alive;close}
+&lt;/code&gt;&lt;/pre&gt;
+&lt;h2 id=&#34;3accept-----&#34;&gt;3)Accept     :&lt;/h2&gt;
+&lt;pre&gt;&lt;code&gt;This header reveals the client prefernce format (eg .JSON,XML,HTML,XML,YAML etc) in which the server response to be sent to the client 
+&lt;/code&gt;&lt;/pre&gt;
+&lt;h2 id=&#34;4accept-lang&#34;&gt;4)Accept-Lang:&lt;/h2&gt;
+&lt;pre&gt;&lt;code&gt;This header reveals the client prefernce language (eg .EN-US,EN-IND,EN-GB etc) in which the server response to be sent to the client 
+&lt;/code&gt;&lt;/pre&gt;
+&lt;h2 id=&#34;5content-type&#34;&gt;5)Content-Type:&lt;/h2&gt;
+&lt;pre&gt;&lt;code&gt;This header reveals the type of content/format (eg.json,xml,html,yaml) which client vis sending the request body/payload to the server
+&lt;/code&gt;&lt;/pre&gt;
+&lt;h2 id=&#34;6authorization-&#34;&gt;6)Authorization :&lt;/h2&gt;
+&lt;pre&gt;&lt;code&gt;This header reveals the user auth details to the server to establish the client identity to the server
+&lt;/code&gt;&lt;/pre&gt;
+&lt;h2 id=&#34;ok-now-lets-understand-what-are-response-headers&#34;&gt;Ok, Now lets understand What are Response Headers&lt;/h2&gt;
+&lt;p&gt;In simple terms additional meta-data sent by the server to client are called Response Headers , some of the main important request headers are as below&lt;/p&gt;
+&lt;h2 id=&#34;1user-agent--1&#34;&gt;1)User-Agent :&lt;/h2&gt;
+&lt;pre&gt;&lt;code&gt;This header reveals the client identity such as browser name, browser version,OS version etc.
+&lt;/code&gt;&lt;/pre&gt;
+&lt;h2 id=&#34;2connection--1&#34;&gt;2)Connection :&lt;/h2&gt;
+&lt;pre&gt;&lt;code&gt;This header reveals the  State of connectivity between client and server , possibe values are {keep-alive;close}
+&lt;/code&gt;&lt;/pre&gt;
+&lt;h2 id=&#34;3accept------1&#34;&gt;3)Accept     :&lt;/h2&gt;
+&lt;pre&gt;&lt;code&gt;This header reveals the client prefernce format (eg .JSON,XML,HTML,XML,YAML etc) in which the server response to be sent to the client 
+&lt;/code&gt;&lt;/pre&gt;
+&lt;h2 id=&#34;4accept-lang-1&#34;&gt;4)Accept-Lang:&lt;/h2&gt;
+&lt;pre&gt;&lt;code&gt;This header reveals the client prefernce language (eg .EN-US,EN-IND,EN-GB etc) in which the server response to be sent to the client 
+&lt;/code&gt;&lt;/pre&gt;
+&lt;h2 id=&#34;5content-type-1&#34;&gt;5)Content-Type:&lt;/h2&gt;
+&lt;pre&gt;&lt;code&gt;This header reveals the type of content/format (eg.json,xml,html,yaml) which client vis sending the request body/payload to the server
+&lt;/code&gt;&lt;/pre&gt;
+&lt;h2 id=&#34;6authorization--1&#34;&gt;6)Authorization :&lt;/h2&gt;
+&lt;pre&gt;&lt;code&gt;This header reveals the user auth details to the server to establish the client identity to the server&lt;/code&gt;&lt;/pre&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
