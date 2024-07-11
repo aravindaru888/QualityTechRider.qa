@@ -30,7 +30,7 @@ This command starts a local web server and watches for changes. The default addr
 
 Build the Site
 
-
+test
 
 hugo
 By default, this command generates the static site in the public directory.
