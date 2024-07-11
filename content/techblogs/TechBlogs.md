@@ -9,7 +9,7 @@ author ='Aravind Yamana'
 
 ## What are Request Headers? 
 
-In simple terms additional meta-data sent by the client to server are called Request Headers , some of the main important request headers are as below 
+In simple terms additional meta-data sent by the client to server are called Request Headers , some of the main important request headers are as below .
 
 ## 1)User-Agent : 
 	
