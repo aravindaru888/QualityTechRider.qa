@@ -13,7 +13,7 @@ I'm Hyderabad Based Software Development Engineer in Test .
 
 My interests include, but are not limited to: writing,Sporting, cycling, video games, and a recent favourite of mine, archery!
 
-This website is a home for everything I've learnt, enjoyed and. Basically it's my  
+This website is a home for everything I've learnt, enjoyed and. Basically it's my  [what tools I use](/tools)
 
 While you're here check out some of . You can also subscribe to new articles I post either via or via email
 

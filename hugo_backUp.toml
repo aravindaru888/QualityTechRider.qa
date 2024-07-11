@@ -1,4 +1,4 @@
-baseURL = 'https://aravindaru888.github.io/arvindaru888.github.io/'
+baseURL = 'https://example.org/'
 languageCode = 'en-us'
 title = 'Quality Tech Rider'
 theme='digital-garden-hugo'
@@ -6,7 +6,7 @@ theme='digital-garden-hugo'
 [menu]
 [[menu.main]]
   name = 'Home'
-  url = 'https://aravindaru888.github.io'
+  url = '/'
   weight = 1
 [[menu.main]]
   name = 'Content'

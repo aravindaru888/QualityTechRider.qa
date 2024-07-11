@@ -263,7 +263,7 @@ AI in Performance Testing: AI can analyze performance data to identify patterns 
       
       <guid>http://localhost:1313/arvindaru888.github.io/techblogs/techblogs/</guid>
       <description>&lt;h2 id=&#34;what-are-request-headers&#34;&gt;What are Request Headers?&lt;/h2&gt;
-&lt;p&gt;In simple terms additional meta-data sent by the client to server are called Request Headers , some of the main important request headers are as below&lt;/p&gt;
+&lt;p&gt;In simple terms additional meta-data sent by the client to server are called Request Headers , some of the main important request headers are as below .&lt;/p&gt;
 &lt;h2 id=&#34;1user-agent-&#34;&gt;1)User-Agent :&lt;/h2&gt;
 &lt;pre&gt;&lt;code&gt;This header reveals the client identity such as browser name, browser version,OS version etc.
 &lt;/code&gt;&lt;/pre&gt;
