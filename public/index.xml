@@ -8,16 +8,6 @@
     <language></language>
     <lastBuildDate>Tue, 02 Jul 2024 19:49:00 +0530</lastBuildDate><atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Intro</title>
-      <link>http://localhost:1313/intro/intro/</link>
-      <pubDate>Thu, 11 Jul 2024 12:34:57 +0530</pubDate>
-      
-      <guid>http://localhost:1313/intro/intro/</guid>
-      <description>&lt;p&gt;test&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
       <title>What is Gatling ?</title>
       <link>http://localhost:1313/techblogs/whatisgatling/</link>
       <pubDate>Wed, 10 Jul 2024 18:06:07 +0530</pubDate>
@@ -158,6 +148,7 @@ Serve the Site Locally&lt;/p&gt;
 &lt;p&gt;hugo server
 This command starts a local web server and watches for changes. The default address is http://localhost:1313.&lt;/p&gt;
 &lt;p&gt;Build the Site&lt;/p&gt;
+&lt;p&gt;test2&lt;/p&gt;
 &lt;p&gt;hugo
 By default, this command generates the static site in the public directory.&lt;/p&gt;
 &lt;p&gt;Configuration Commands
@@ -225,6 +216,7 @@ These commands cover the essential functionality needed to create, develop, and 
       
       <guid>http://localhost:1313/techblogs/techblogs2/</guid>
       <description>&lt;p&gt;HAR (Http Archive Resource)&lt;/p&gt;
+&lt;p&gt;hi&lt;/p&gt;
 </description>
     </item>
     

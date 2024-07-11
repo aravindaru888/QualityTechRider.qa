@@ -2,12 +2,6 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/intro/intro/</loc>
-    <lastmod>2024-07-11T12:34:57+05:30</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/intro/</loc>
-    <lastmod>2024-07-11T12:34:57+05:30</lastmod>
-  </url><url>
     <loc>http://localhost:1313/techblogs/</loc>
     <lastmod>2024-07-10T18:06:07+05:30</lastmod>
   </url><url>

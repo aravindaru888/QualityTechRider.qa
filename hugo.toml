@@ -1,4 +1,4 @@
-baseURL = 'https://aravindaru888.github.io/QualityTechRider/'
+baseURL = 'https://example.org/'
 languageCode = 'en-us'
 title = 'Quality Tech Rider'
 theme='digital-garden-hugo'

@@ -78,6 +78,7 @@ Serve the Site Locally&lt;/p&gt;
 &lt;p&gt;hugo server
 This command starts a local web server and watches for changes. The default address is http://localhost:1313.&lt;/p&gt;
 &lt;p&gt;Build the Site&lt;/p&gt;
+&lt;p&gt;test2&lt;/p&gt;
 &lt;p&gt;hugo
 By default, this command generates the static site in the public directory.&lt;/p&gt;
 &lt;p&gt;Configuration Commands

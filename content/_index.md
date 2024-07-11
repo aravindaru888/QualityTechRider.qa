@@ -21,5 +21,3 @@ While you're here check out some of . You can also subscribe to new articles I p
 
 The best way to get in touch with me is via email .
 Click Here 
-
-<a href="/intro" /a>
