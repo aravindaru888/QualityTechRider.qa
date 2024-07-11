@@ -2,8 +2,8 @@
     "version" : "https://jsonfeed.org/version/1",
     "title" : "Tools on Quality Tech Rider",
     "description": "Recent content in Tools on Quality Tech Rider",
-    "home_page_url" : "http://localhost:1313/arvindaru888.github.io/",
-    "feed_url" : "http://localhost:1313/arvindaru888.github.io/tools/index.json",
+    "home_page_url" : "http://localhost:1313/",
+    "feed_url" : "http://localhost:1313/tools/index.json",
     "items" : [
     ]
 }

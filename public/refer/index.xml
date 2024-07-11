@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Refers on Quality Tech Rider</title>
-    <link>http://localhost:1313/arvindaru888.github.io/refer/</link>
+    <link>http://localhost:1313/refer/</link>
     <description>Recent content in Refers on Quality Tech Rider</description>
     <generator>Hugo -- gohugo.io</generator>
     <language></language>
-    <lastBuildDate>Mon, 08 Jul 2024 13:21:29 +0530</lastBuildDate><atom:link href="http://localhost:1313/arvindaru888.github.io/refer/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 08 Jul 2024 13:21:29 +0530</lastBuildDate><atom:link href="http://localhost:1313/refer/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>ToDoList</title>
-      <link>http://localhost:1313/arvindaru888.github.io/refer/todolist/</link>
+      <link>http://localhost:1313/refer/todolist/</link>
       <pubDate>Mon, 08 Jul 2024 13:21:29 +0530</pubDate>
       
-      <guid>http://localhost:1313/arvindaru888.github.io/refer/todolist/</guid>
+      <guid>http://localhost:1313/refer/todolist/</guid>
       <description>&lt;p&gt;E2E automation framework with integrations&lt;/p&gt;
 &lt;p&gt;UI automation - Java / Selenium	&lt;br&gt;
 API automation - Rest Assured&lt;br&gt;
@@ -27,10 +27,10 @@ Usability&lt;/p&gt;
     
     <item>
       <title>QuickLinksForReferences</title>
-      <link>http://localhost:1313/arvindaru888.github.io/refer/quicklinksforreferences/</link>
+      <link>http://localhost:1313/refer/quicklinksforreferences/</link>
       <pubDate>Thu, 04 Jul 2024 23:45:48 +0530</pubDate>
       
-      <guid>http://localhost:1313/arvindaru888.github.io/refer/quicklinksforreferences/</guid>
+      <guid>http://localhost:1313/refer/quicklinksforreferences/</guid>
       <description>&lt;p&gt;&lt;a href=&#34;https://docs.gatling.io/reference/install/oss/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34; &gt;https://docs.gatling.io/reference/install/oss/&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;Important gatling commands&lt;/p&gt;
 &lt;h2 id=&#34;for-starting-recorder&#34;&gt;For starting recorder&lt;/h2&gt;
@@ -59,10 +59,10 @@ Why it is fun ? it will be fun learning and understanding what it can do and how
     
     <item>
       <title>Refer</title>
-      <link>http://localhost:1313/arvindaru888.github.io/refer/hugoreferences/</link>
+      <link>http://localhost:1313/refer/hugoreferences/</link>
       <pubDate>Thu, 04 Jul 2024 23:45:25 +0530</pubDate>
       
-      <guid>http://localhost:1313/arvindaru888.github.io/refer/hugoreferences/</guid>
+      <guid>http://localhost:1313/refer/hugoreferences/</guid>
       <description>&lt;p&gt;Hugo is a fast and flexible static site generator written in Go. It’s particularly useful for building websites and blogs. Here are some essential Hugo commands that can help you efficiently manage your Hugo projects:&lt;/p&gt;
 &lt;p&gt;Installation
 Before using Hugo commands, ensure Hugo is installed on your system. You can install it using a package manager or download it directly from the Hugo releases page.&lt;/p&gt;

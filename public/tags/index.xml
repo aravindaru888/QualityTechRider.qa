@@ -2,26 +2,26 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Quality Tech Rider</title>
-    <link>http://localhost:1313/arvindaru888.github.io/tags/</link>
+    <link>http://localhost:1313/tags/</link>
     <description>Recent content in Tags on Quality Tech Rider</description>
     <generator>Hugo -- gohugo.io</generator>
     <language></language>
-    <lastBuildDate>Tue, 02 Jul 2024 20:18:08 +0530</lastBuildDate><atom:link href="http://localhost:1313/arvindaru888.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 02 Jul 2024 20:18:08 +0530</lastBuildDate><atom:link href="http://localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>API</title>
-      <link>http://localhost:1313/arvindaru888.github.io/tags/api/</link>
+      <link>http://localhost:1313/tags/api/</link>
       <pubDate>Tue, 02 Jul 2024 20:18:08 +0530</pubDate>
       
-      <guid>http://localhost:1313/arvindaru888.github.io/tags/api/</guid>
+      <guid>http://localhost:1313/tags/api/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Future of QA</title>
-      <link>http://localhost:1313/arvindaru888.github.io/tags/future-of-qa/</link>
+      <link>http://localhost:1313/tags/future-of-qa/</link>
       <pubDate>Tue, 02 Jul 2024 20:18:08 +0530</pubDate>
       
-      <guid>http://localhost:1313/arvindaru888.github.io/tags/future-of-qa/</guid>
+      <guid>http://localhost:1313/tags/future-of-qa/</guid>
       <description></description>
     </item>
     
