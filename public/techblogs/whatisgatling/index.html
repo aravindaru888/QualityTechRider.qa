@@ -8,37 +8,48 @@
   <link rel="icon" href="/favicon.ico">
 
   <title>
-    Techblogs - Quality Tech Rider
+    What is Gatling ? - Quality Tech Rider
   </title>
 
-  <meta name="description" content="" /><meta name="generator" content="Hugo 0.128.1">
+  <meta name="description" content="Gatling DSL (Domain-Specific Language) is a specialized programming language designed specifically for defining and running performance tests with Gatling, an open-source load testing tool. The DSL allows testers and developers to write expressive, concise, and readable performance test scenarios in Scala, which is the language Gatling is built on. The Gatling DSL abstracts much of the complexity involved in writing performance tests, making it easier to define scenarios, configure requests, and perform checks." />
+  <meta name="author" content="Aravind Yamana" />
+  <meta name="generator" content="Hugo 0.128.1">
 
   <link rel="stylesheet" href="http://localhost:1313/css/main.css" />
 
   
   
 
-  <meta property="og:url" content="http://localhost:1313/techblogs/">
+  <meta property="og:url" content="http://localhost:1313/techblogs/whatisgatling/">
   <meta property="og:site_name" content="Quality Tech Rider">
-  <meta property="og:title" content="Techblogs">
+  <meta property="og:title" content="What is Gatling ?">
+  <meta property="og:description" content="Gatling DSL (Domain-Specific Language) is a specialized programming language designed specifically for defining and running performance tests with Gatling, an open-source load testing tool. The DSL allows testers and developers to write expressive, concise, and readable performance test scenarios in Scala, which is the language Gatling is built on. The Gatling DSL abstracts much of the complexity involved in writing performance tests, making it easier to define scenarios, configure requests, and perform checks.">
   <meta property="og:locale" content="en_us">
-  <meta property="og:type" content="website">
+  <meta property="og:type" content="article">
+    <meta property="article:section" content="techblogs">
+    <meta property="article:published_time" content="2024-07-10T18:06:07+05:30">
+    <meta property="article:modified_time" content="2024-07-10T18:06:07+05:30">
 
 
   
   <meta name="twitter:card" content="summary">
-  <meta name="twitter:title" content="Techblogs">
+  <meta name="twitter:title" content="What is Gatling ?">
+  <meta name="twitter:description" content="Gatling DSL (Domain-Specific Language) is a specialized programming language designed specifically for defining and running performance tests with Gatling, an open-source load testing tool. The DSL allows testers and developers to write expressive, concise, and readable performance test scenarios in Scala, which is the language Gatling is built on. The Gatling DSL abstracts much of the complexity involved in writing performance tests, making it easier to define scenarios, configure requests, and perform checks.">
 
 
   
-  <meta itemprop="name" content="Techblogs">
+  <meta itemprop="name" content="What is Gatling ?">
+  <meta itemprop="description" content="Gatling DSL (Domain-Specific Language) is a specialized programming language designed specifically for defining and running performance tests with Gatling, an open-source load testing tool. The DSL allows testers and developers to write expressive, concise, and readable performance test scenarios in Scala, which is the language Gatling is built on. The Gatling DSL abstracts much of the complexity involved in writing performance tests, making it easier to define scenarios, configure requests, and perform checks.">
   <meta itemprop="datePublished" content="2024-07-10T18:06:07+05:30">
   <meta itemprop="dateModified" content="2024-07-10T18:06:07+05:30">
+  <meta itemprop="wordCount" content="543">
 
   
-  <meta itemprop="name" content="Techblogs">
+  <meta itemprop="name" content="What is Gatling ?">
+  <meta itemprop="description" content="Gatling DSL (Domain-Specific Language) is a specialized programming language designed specifically for defining and running performance tests with Gatling, an open-source load testing tool. The DSL allows testers and developers to write expressive, concise, and readable performance test scenarios in Scala, which is the language Gatling is built on. The Gatling DSL abstracts much of the complexity involved in writing performance tests, making it easier to define scenarios, configure requests, and perform checks.">
   <meta itemprop="datePublished" content="2024-07-10T18:06:07+05:30">
   <meta itemprop="dateModified" content="2024-07-10T18:06:07+05:30">
+  <meta itemprop="wordCount" content="543">
 </head><body class="flex relative h-full min-h-screen"><aside
   class="will-change-transform transform transition-transform -translate-x-full absolute top-0 left-0 md:relative md:translate-x-0 w-3/4 md:w-60 h-full min-h-screen p-3 bg-slate-50 dark:bg-slate-800 border-r border-slate-200 dark:border-slate-700 flex flex-col gap-2.5 z-20 sidebar">
   <p class="font-bold mb-5 flex items-center gap-2">
@@ -81,7 +92,7 @@
     </li>
     
     <li>
-      <a class="px-2 py-1.5 rounded-md text-sm flex items-center justify-between  bg-slate-800 text-white dark:bg-slate-50 dark:text-slate-800 dark:selection:bg-slate-400 "
+      <a class="px-2 py-1.5 rounded-md text-sm flex items-center justify-between  hover:bg-slate-200 dark:hover:bg-slate-700 "
         href="/techblogs" >
         <span>Tech Blogs</span>
         
@@ -254,55 +265,160 @@
 </svg></button>
 <div class="flex-1 max-w-full">
 
+
+
+
+
 <div class="flex h-screen relative">
 
+  <style>
+    pre{ 
+       white-space: pre-wrap; 
+       word-break: break-word;
+    }
+  </style>
+
   <section
-    class="w-full h-full md:min-w-[400px] md:w-1/4 bg-slate-50 dark:bg-slate-800 border-r border-slate-200 dark:border-slate-700 flex flex-col py-3 overflow-y-auto scroll-area">
+    class="will-change-transform transform transition-transform -translate-x-[200%] absolute top-0 left-0 lg:relative
+  lg:translate-x-0 lg:min-w-[400px] lg:w-1/4 h-full bg-slate-50 dark:bg-slate-800 border-r border-slate-200 dark:border-slate-700 lg:flex flex-col py-3 overflow-y-auto scroll-area">
+    
+    
     <a href="http://localhost:1313/techblogs/">
       <h2 class="font-bold mb-5 py-1 pl-12 pr-3 md:px-3">Techblogs</h2>
     </a><div class="space-y-2.5">
-      <a class="article block px-3 py-4 hover:bg-slate-200 dark:hover:bg-slate-700" href="/techblogs/whatisgatling/">
-
+      
+      <a class="article block px-3 py-4  bg-slate-900 dark:bg-slate-700 text-slate-50 "
+        href="/techblogs/whatisgatling/">
         
         
         <h3 class="text-lg font-semibold mb-0.5">What is Gatling ?</h3>
-        <div class="text-sm text-slate-500 dark:text-slate-400 line-clamp-3">
+        <div
+          class="text-sm  text-slate-400  line-clamp-3">
           
         </div>
       </a>
-      <a class="article block px-3 py-4 hover:bg-slate-200 dark:hover:bg-slate-700" href="/techblogs/techblogs2/">
-
+      
+      <a class="article block px-3 py-4  hover:bg-slate-200 dark:hover:bg-slate-700 "
+        href="/techblogs/techblogs2/">
         
         
         <h3 class="text-lg font-semibold mb-0.5">Gatling</h3>
-        <div class="text-sm text-slate-500 dark:text-slate-400 line-clamp-3">
+        <div
+          class="text-sm  text-slate-500 dark:text-slate-400  line-clamp-3">
           
         </div>
       </a>
-      <a class="article block px-3 py-4 hover:bg-slate-200 dark:hover:bg-slate-700" href="/techblogs/futureoftesting/">
-
+      
+      <a class="article block px-3 py-4  hover:bg-slate-200 dark:hover:bg-slate-700 "
+        href="/techblogs/futureoftesting/">
         
         
         <h3 class="text-lg font-semibold mb-0.5">Future Of Software Testing</h3>
-        <div class="text-sm text-slate-500 dark:text-slate-400 line-clamp-3">
+        <div
+          class="text-sm  text-slate-500 dark:text-slate-400  line-clamp-3">
           
         </div>
       </a>
-      <a class="article block px-3 py-4 hover:bg-slate-200 dark:hover:bg-slate-700" href="/techblogs/techblogs/">
-
+      
+      <a class="article block px-3 py-4  hover:bg-slate-200 dark:hover:bg-slate-700 "
+        href="/techblogs/techblogs/">
         
         
         <h3 class="text-lg font-semibold mb-0.5">Request Headers and Response Headers</h3>
-        <div class="text-sm text-slate-500 dark:text-slate-400 line-clamp-3">
+        <div
+          class="text-sm  text-slate-500 dark:text-slate-400  line-clamp-3">
           
         </div>
       </a>
       </div>
-  </section>
+    </section>
 
-  <main class="hidden md:grid h-screen place-items-center flex-1">
-    <p class="text-center p-8 text-2xl text-slate-300 dark:text-slate-700">Select a post to read</p>
-  </main>
+  <div class="overflow-y-auto h-screen w-full">
+    <article class="px-6 py-20 w-full mx-auto prose lg:prose-lg h-fit dark:prose-invert prose-img:mx-auto">
+
+      
+      <h1 class="!mb-2">What is Gatling ?</h1>
+      <p class="text-sm text-slate-500 !mb-8"> Author : Aravind Yamana</p>
+	  
+      <p class="text-sm text-slate-500 !mb-8"> Planted July 10, 2024
+		
+      <br/>
+      
+        
+      
+      Reading time: 3 minutes
+      <br/> Tags: 
+      
+	  </p>
+      
+
+      
+      <p>Gatling DSL (Domain-Specific Language) is a specialized programming language designed specifically for defining and running performance tests with Gatling, an open-source load testing tool. The DSL allows testers and developers to write expressive, concise, and readable performance test scenarios in Scala, which is the language Gatling is built on. The Gatling DSL abstracts much of the complexity involved in writing performance tests, making it easier to define scenarios, configure requests, and perform checks.</p>
+<p>Key Features of Gatling DSL are</p>
+<h3 id="scenario-definition">Scenario Definition:</h3>
+<p>Define the sequence of HTTP requests and actions that simulate user behavior.</p>
+<h3 id="http-requests">HTTP Requests:</h3>
+<p>Configure GET, POST, PUT, DELETE, and other HTTP requests.</p>
+<h3 id="checks">Checks:</h3>
+<p>Validate responses with assertions, such as checking status codes, response times, and specific data in the responses.</p>
+<h3 id="feeders">Feeders:</h3>
+<p>Provide dynamic data to the tests using feeders, which can read data from CSV files, JSON files, and other sources.</p>
+<h3 id="injection-profiles">Injection Profiles:</h3>
+<p>Define how users are injected into the system over time, such as ramping up users gradually or starting with a burst of users.</p>
+<h3 id="reports">Reports:</h3>
+<p>Generate detailed and graphical reports of the test results, showing metrics like response times, request counts, and error rates.</p>
+<p>Example of Gatling DSL
+Here&rsquo;s a simple example to demonstrate the usage of the Gatling DSL:</p>
+<h2 id="heading"></h2>
+<pre><code>import io.gatling.core.Predef._
+import io.gatling.http.Predef._
+
+class MySimulation extends Simulation {
+
+  // Define the HTTP protocol configuration
+  val httpProtocol = http
+	.baseUrl(&quot;http://example.com&quot;) // Base URL for all requests
+	.acceptHeader(&quot;application/json&quot;) // Default headers
+	.userAgentHeader(&quot;Gatling&quot;)
+
+  // Define a feeder for dynamic data
+  val feeder = csv(&quot;data/users.csv&quot;).circular
+
+  // Define the scenario
+  val scn = scenario(&quot;My Scenario&quot;)
+	.feed(feeder) // Use the feeder for dynamic data
+	.exec(http(&quot;Get User&quot;)
+	  .get(&quot;/user/${userId}&quot;) // Dynamic URL based on feeder data
+	  .check(status.is(200)) // Check that the response status is 200
+	  .check(jsonPath(&quot;$.name&quot;).is(&quot;${userName}&quot;)) // Check the JSON response
+	)
+
+  // Set up the simulation with injection profile
+  setUp(
+	scn.inject(
+	  atOnceUsers(10), // Inject 10 users at once
+	  rampUsers(100).during(10.seconds) // Ramp up to 100 users over 10 seconds
+	).protocols(httpProtocol) // Use the HTTP protocol configuration
+  )
+}
+</code></pre>
+<p>Explanation
+HTTP Protocol Configuration: Sets the base URL and default headers for the HTTP requests.
+Feeder: Reads dynamic data from a CSV file to be used in the requests.
+Scenario Definition: Defines a scenario named &ldquo;My Scenario&rdquo; that performs a GET request to /user/${userId}, where ${userId} is a placeholder for dynamic data from the feeder. The scenario includes checks to validate the response status and specific data in the JSON response.
+Injection Profile: Defines how users are injected into the simulation. In this example, 10 users are injected at once, and then 100 users are ramped up over 10 seconds.
+Simulation Setup: Sets up the simulation with the defined scenario and HTTP protocol configuration.
+Benefits of Gatling DSL
+Readability: The DSL makes it easy to read and understand performance test scenarios, even for those who are not familiar with Scala.
+Expressiveness: The DSL provides a rich set of features to express complex scenarios and checks concisely.
+Reusability: Scenarios, feeders, and configurations can be reused across different tests, promoting code reuse and maintainability.
+Extensibility: Custom actions and checks can be implemented in Scala, allowing for advanced customization and extension of the DSL.
+The Gatling DSL is a powerful tool that simplifies the creation and management of performance tests, enabling teams to effectively simulate and analyze user behavior under load.</p>
+
+	  <u>If you like it please leave a thums Up !</u>
+      <hr>
+    </article>
+  </div>
 
 </div>
 

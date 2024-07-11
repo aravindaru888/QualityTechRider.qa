@@ -6,7 +6,77 @@
     <description>Recent content in Techblogs on Quality Tech Rider</description>
     <generator>Hugo -- gohugo.io</generator>
     <language></language>
-    <lastBuildDate>Tue, 02 Jul 2024 22:07:16 +0530</lastBuildDate><atom:link href="http://localhost:1313/techblogs/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 10 Jul 2024 18:06:07 +0530</lastBuildDate><atom:link href="http://localhost:1313/techblogs/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>What is Gatling ?</title>
+      <link>http://localhost:1313/techblogs/whatisgatling/</link>
+      <pubDate>Wed, 10 Jul 2024 18:06:07 +0530</pubDate>
+      
+      <guid>http://localhost:1313/techblogs/whatisgatling/</guid>
+      <description>&lt;p&gt;Gatling DSL (Domain-Specific Language) is a specialized programming language designed specifically for defining and running performance tests with Gatling, an open-source load testing tool. The DSL allows testers and developers to write expressive, concise, and readable performance test scenarios in Scala, which is the language Gatling is built on. The Gatling DSL abstracts much of the complexity involved in writing performance tests, making it easier to define scenarios, configure requests, and perform checks.&lt;/p&gt;
+&lt;p&gt;Key Features of Gatling DSL are&lt;/p&gt;
+&lt;h3 id=&#34;scenario-definition&#34;&gt;Scenario Definition:&lt;/h3&gt;
+&lt;p&gt;Define the sequence of HTTP requests and actions that simulate user behavior.&lt;/p&gt;
+&lt;h3 id=&#34;http-requests&#34;&gt;HTTP Requests:&lt;/h3&gt;
+&lt;p&gt;Configure GET, POST, PUT, DELETE, and other HTTP requests.&lt;/p&gt;
+&lt;h3 id=&#34;checks&#34;&gt;Checks:&lt;/h3&gt;
+&lt;p&gt;Validate responses with assertions, such as checking status codes, response times, and specific data in the responses.&lt;/p&gt;
+&lt;h3 id=&#34;feeders&#34;&gt;Feeders:&lt;/h3&gt;
+&lt;p&gt;Provide dynamic data to the tests using feeders, which can read data from CSV files, JSON files, and other sources.&lt;/p&gt;
+&lt;h3 id=&#34;injection-profiles&#34;&gt;Injection Profiles:&lt;/h3&gt;
+&lt;p&gt;Define how users are injected into the system over time, such as ramping up users gradually or starting with a burst of users.&lt;/p&gt;
+&lt;h3 id=&#34;reports&#34;&gt;Reports:&lt;/h3&gt;
+&lt;p&gt;Generate detailed and graphical reports of the test results, showing metrics like response times, request counts, and error rates.&lt;/p&gt;
+&lt;p&gt;Example of Gatling DSL
+Here&amp;rsquo;s a simple example to demonstrate the usage of the Gatling DSL:&lt;/p&gt;
+&lt;h2 id=&#34;heading&#34;&gt;&lt;/h2&gt;
+&lt;pre&gt;&lt;code&gt;import io.gatling.core.Predef._
+import io.gatling.http.Predef._
+
+class MySimulation extends Simulation {
+
+  // Define the HTTP protocol configuration
+  val httpProtocol = http
+	.baseUrl(&amp;quot;http://example.com&amp;quot;) // Base URL for all requests
+	.acceptHeader(&amp;quot;application/json&amp;quot;) // Default headers
+	.userAgentHeader(&amp;quot;Gatling&amp;quot;)
+
+  // Define a feeder for dynamic data
+  val feeder = csv(&amp;quot;data/users.csv&amp;quot;).circular
+
+  // Define the scenario
+  val scn = scenario(&amp;quot;My Scenario&amp;quot;)
+	.feed(feeder) // Use the feeder for dynamic data
+	.exec(http(&amp;quot;Get User&amp;quot;)
+	  .get(&amp;quot;/user/${userId}&amp;quot;) // Dynamic URL based on feeder data
+	  .check(status.is(200)) // Check that the response status is 200
+	  .check(jsonPath(&amp;quot;$.name&amp;quot;).is(&amp;quot;${userName}&amp;quot;)) // Check the JSON response
+	)
+
+  // Set up the simulation with injection profile
+  setUp(
+	scn.inject(
+	  atOnceUsers(10), // Inject 10 users at once
+	  rampUsers(100).during(10.seconds) // Ramp up to 100 users over 10 seconds
+	).protocols(httpProtocol) // Use the HTTP protocol configuration
+  )
+}
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;Explanation
+HTTP Protocol Configuration: Sets the base URL and default headers for the HTTP requests.
+Feeder: Reads dynamic data from a CSV file to be used in the requests.
+Scenario Definition: Defines a scenario named &amp;ldquo;My Scenario&amp;rdquo; that performs a GET request to /user/${userId}, where ${userId} is a placeholder for dynamic data from the feeder. The scenario includes checks to validate the response status and specific data in the JSON response.
+Injection Profile: Defines how users are injected into the simulation. In this example, 10 users are injected at once, and then 100 users are ramped up over 10 seconds.
+Simulation Setup: Sets up the simulation with the defined scenario and HTTP protocol configuration.
+Benefits of Gatling DSL
+Readability: The DSL makes it easy to read and understand performance test scenarios, even for those who are not familiar with Scala.
+Expressiveness: The DSL provides a rich set of features to express complex scenarios and checks concisely.
+Reusability: Scenarios, feeders, and configurations can be reused across different tests, promoting code reuse and maintainability.
+Extensibility: Custom actions and checks can be implemented in Scala, allowing for advanced customization and extension of the DSL.
+The Gatling DSL is a powerful tool that simplifies the creation and management of performance tests, enabling teams to effectively simulate and analyze user behavior under load.&lt;/p&gt;
+</description>
+    </item>
+    
     <item>
       <title>Gatling</title>
       <link>http://localhost:1313/techblogs/techblogs2/</link>

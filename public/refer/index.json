@@ -6,12 +6,23 @@
     "feed_url" : "http://localhost:1313/refer/index.json",
     "items" : [
     {
+        "title" : "ToDoList",
+        "date_published" : "2024-07-08T13:21:29+05:30",
+        "date_modified" : "2024-07-08T13:21:29+05:30",
+        "id" : "http://localhost:1313/refer/todolist/",
+        "url" : "http://localhost:1313/refer/todolist/",
+        "author" : {
+          "name" : "Aravind Yamana"
+        },
+        "content_html" : "\u003cp\u003eE2E automation framework with integrations\u003c/p\u003e\n\u003cp\u003eUI automation - Java / Selenium\t\u003cbr\u003e\nAPI automation - Rest Assured\u003cbr\u003e\nPerformance automation - Gatling Java\u003cbr\u003e\nBurp suite - Security\u003cbr\u003e\nUsability\u003c/p\u003e\n\u003cp\u003eGithub - GitHub actions / Jenkins\u003c/p\u003e\n\u003ch2 id=\"fine-tuning-llms-and-vertex-ai--open-dource-ai-libraries\"\u003eFine Tuning LLMS and Vertex AI , open dource AI Libraries\u003c/h2\u003e\n\u003ch2 id=\"any-innovation-concentrate\"\u003eAny innovation Concentrate\u003c/h2\u003e\n"
+    },
+    {
         "title" : "QuickLinksForReferences",
         "date_published" : "2024-07-04T23:45:48+05:30",
         "date_modified" : "2024-07-04T23:45:48+05:30",
         "id" : "http://localhost:1313/refer/quicklinksforreferences/",
         "url" : "http://localhost:1313/refer/quicklinksforreferences/",
-        "content_html" : "\u003cp\u003e\u003ca href=\"https://docs.gatling.io/reference/install/oss/\"  target=\"_blank\" rel=\"noopener\" \u003ehttps://docs.gatling.io/reference/install/oss/\u003c/a\u003e\u003c/p\u003e\n\u003cp\u003eImportant gatling commands\u003c/p\u003e\n\u003cp\u003e\u0026ndash;\u0026gt; mvnw.cmd gatling:recorder\u003c/p\u003e\n"
+        "content_html" : "\u003cp\u003e\u003ca href=\"https://docs.gatling.io/reference/install/oss/\"  target=\"_blank\" rel=\"noopener\" \u003ehttps://docs.gatling.io/reference/install/oss/\u003c/a\u003e\u003c/p\u003e\n\u003cp\u003eImportant gatling commands\u003c/p\u003e\n\u003ch2 id=\"for-starting-recorder\"\u003eFor starting recorder\u003c/h2\u003e\n\u003cpre\u003e\u003ccode\u003emvnw.cmd gatling:recorder \n\u003c/code\u003e\u003c/pre\u003e\n\u003ch2 id=\"for-running-the-gatling-simulations\"\u003eFor Running the gatling simulations\u003c/h2\u003e\n\u003cpre\u003e\u003ccode\u003emvnw.cmd gatling:test\n\u003c/code\u003e\u003c/pre\u003e\n\u003ch2 id=\"running-the-simulation\"\u003eRunning the Simulation:\u003c/h2\u003e\n\u003ch3 id=\"use-the-following-command-to-run-your-specific-simulation-class\"\u003eUse the following command to run your specific simulation class:\u003c/h3\u003e\n\u003cpre\u003e\u003ccode\u003emvnw.cmd gatling:test -Dgatling.simulationClass=MySimulation\n\u003c/code\u003e\u003c/pre\u003e\n\u003ch3 id=\"if-you-are-using-a-unix-based-system-linux-or-mac-you-would-use\"\u003eIf you are using a Unix-based system (Linux or Mac), you would use:\u003c/h3\u003e\n\u003cpre\u003e\u003ccode\u003e./mvnw gatling:test -Dgatling.simulationClass=MySimulation\n\u003c/code\u003e\u003c/pre\u003e\n\u003cp\u003eAs one of the famous personalities said , AI IS DANGEROUS , we need to agree to the fact that it is dangerous and fun too\u003c/p\u003e\n\u003cp\u003eDanagerous aspect of it , everything which requires human brains are going to be replaced\nWhy it is fun ? it will be fun learning and understanding what it can do and how we can make use of it to make our lives comfortable\u003c/p\u003e\n\u003cp\u003eWhich Areas You can think , we can make use of AI ?\u003c/p\u003e\n\u003cp\u003e1)Test Documentation - This is a repetitive and boring task\n2)Automation Tools with AI Integration - You just need to know  how to communicate it to your model and get the code from it and use it\n3)Code Reviews , Vulnerability Scans\n4)Capturing all the webElements with meaningful Names from left to right using AI (Gives POM file in Java/Python or whichever language is requested)\u0026ndash;\u0026gt;Pain Point\u003c/p\u003e\n"
     },
     {
         "title" : "Refer",

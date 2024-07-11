@@ -1,0 +1,20 @@
+{
+    "version" : "https://jsonfeed.org/version/1",
+    "title" : "Introes on Quality Tech Rider",
+    "description": "Recent content in Introes on Quality Tech Rider",
+    "home_page_url" : "http://localhost:1313/",
+    "feed_url" : "http://localhost:1313/intro/index.json",
+    "items" : [
+    {
+        "title" : "Intro",
+        "date_published" : "2024-07-11T12:34:57+05:30",
+        "date_modified" : "2024-07-11T12:34:57+05:30",
+        "id" : "http://localhost:1313/intro/intro/",
+        "url" : "http://localhost:1313/intro/intro/",
+        "author" : {
+          "name" : "Aravind Yamana"
+        },
+        "content_html" : "\u003cp\u003etest\u003c/p\u003e\n"
+    }
+    ]
+}

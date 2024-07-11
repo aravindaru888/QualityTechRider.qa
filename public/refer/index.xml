@@ -6,7 +6,25 @@
     <description>Recent content in Refers on Quality Tech Rider</description>
     <generator>Hugo -- gohugo.io</generator>
     <language></language>
-    <lastBuildDate>Thu, 04 Jul 2024 23:45:48 +0530</lastBuildDate><atom:link href="http://localhost:1313/refer/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 08 Jul 2024 13:21:29 +0530</lastBuildDate><atom:link href="http://localhost:1313/refer/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>ToDoList</title>
+      <link>http://localhost:1313/refer/todolist/</link>
+      <pubDate>Mon, 08 Jul 2024 13:21:29 +0530</pubDate>
+      
+      <guid>http://localhost:1313/refer/todolist/</guid>
+      <description>&lt;p&gt;E2E automation framework with integrations&lt;/p&gt;
+&lt;p&gt;UI automation - Java / Selenium	&lt;br&gt;
+API automation - Rest Assured&lt;br&gt;
+Performance automation - Gatling Java&lt;br&gt;
+Burp suite - Security&lt;br&gt;
+Usability&lt;/p&gt;
+&lt;p&gt;Github - GitHub actions / Jenkins&lt;/p&gt;
+&lt;h2 id=&#34;fine-tuning-llms-and-vertex-ai--open-dource-ai-libraries&#34;&gt;Fine Tuning LLMS and Vertex AI , open dource AI Libraries&lt;/h2&gt;
+&lt;h2 id=&#34;any-innovation-concentrate&#34;&gt;Any innovation Concentrate&lt;/h2&gt;
+</description>
+    </item>
+    
     <item>
       <title>QuickLinksForReferences</title>
       <link>http://localhost:1313/refer/quicklinksforreferences/</link>
@@ -15,7 +33,27 @@
       <guid>http://localhost:1313/refer/quicklinksforreferences/</guid>
       <description>&lt;p&gt;&lt;a href=&#34;https://docs.gatling.io/reference/install/oss/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34; &gt;https://docs.gatling.io/reference/install/oss/&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;Important gatling commands&lt;/p&gt;
-&lt;p&gt;&amp;ndash;&amp;gt; mvnw.cmd gatling:recorder&lt;/p&gt;
+&lt;h2 id=&#34;for-starting-recorder&#34;&gt;For starting recorder&lt;/h2&gt;
+&lt;pre&gt;&lt;code&gt;mvnw.cmd gatling:recorder 
+&lt;/code&gt;&lt;/pre&gt;
+&lt;h2 id=&#34;for-running-the-gatling-simulations&#34;&gt;For Running the gatling simulations&lt;/h2&gt;
+&lt;pre&gt;&lt;code&gt;mvnw.cmd gatling:test
+&lt;/code&gt;&lt;/pre&gt;
+&lt;h2 id=&#34;running-the-simulation&#34;&gt;Running the Simulation:&lt;/h2&gt;
+&lt;h3 id=&#34;use-the-following-command-to-run-your-specific-simulation-class&#34;&gt;Use the following command to run your specific simulation class:&lt;/h3&gt;
+&lt;pre&gt;&lt;code&gt;mvnw.cmd gatling:test -Dgatling.simulationClass=MySimulation
+&lt;/code&gt;&lt;/pre&gt;
+&lt;h3 id=&#34;if-you-are-using-a-unix-based-system-linux-or-mac-you-would-use&#34;&gt;If you are using a Unix-based system (Linux or Mac), you would use:&lt;/h3&gt;
+&lt;pre&gt;&lt;code&gt;./mvnw gatling:test -Dgatling.simulationClass=MySimulation
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;As one of the famous personalities said , AI IS DANGEROUS , we need to agree to the fact that it is dangerous and fun too&lt;/p&gt;
+&lt;p&gt;Danagerous aspect of it , everything which requires human brains are going to be replaced
+Why it is fun ? it will be fun learning and understanding what it can do and how we can make use of it to make our lives comfortable&lt;/p&gt;
+&lt;p&gt;Which Areas You can think , we can make use of AI ?&lt;/p&gt;
+&lt;p&gt;1)Test Documentation - This is a repetitive and boring task
+2)Automation Tools with AI Integration - You just need to know  how to communicate it to your model and get the code from it and use it
+3)Code Reviews , Vulnerability Scans
+4)Capturing all the webElements with meaningful Names from left to right using AI (Gives POM file in Java/Python or whichever language is requested)&amp;ndash;&amp;gt;Pain Point&lt;/p&gt;
 </description>
     </item>
     
