@@ -6,7 +6,7 @@ theme='digital-garden-hugo'
 [menu]
 [[menu.main]]
   name = 'Home'
-  url = 'https://aravindaru888.github.io'
+  url = '/'
   weight = 1
 [[menu.main]]
   name = 'Content'
