@@ -2,15 +2,15 @@
     "version" : "https://jsonfeed.org/version/1",
     "title" : "Articles on Quality Tech Rider",
     "description": "Recent content in Articles on Quality Tech Rider",
-    "home_page_url" : "http://localhost:1313/",
-    "feed_url" : "http://localhost:1313/techblogs/index.json",
+    "home_page_url" : "http://localhost:1313/arvindaru888.github.io/",
+    "feed_url" : "http://localhost:1313/arvindaru888.github.io/techblogs/index.json",
     "items" : [
     {
         "title" : "Gatling",
         "date_published" : "2024-07-02T22:07:16+05:30",
         "date_modified" : "2024-07-02T22:07:16+05:30",
-        "id" : "http://localhost:1313/techblogs/techblogs2/",
-        "url" : "http://localhost:1313/techblogs/techblogs2/",
+        "id" : "http://localhost:1313/arvindaru888.github.io/techblogs/techblogs2/",
+        "url" : "http://localhost:1313/arvindaru888.github.io/techblogs/techblogs2/",
         "author" : {
           "name" : "Aravind Yamana"
         },
@@ -20,8 +20,8 @@
         "title" : "Future Of Software Testing",
         "date_published" : "2024-07-02T20:18:08+05:30",
         "date_modified" : "2024-07-02T20:18:08+05:30",
-        "id" : "http://localhost:1313/techblogs/futureoftesting/",
-        "url" : "http://localhost:1313/techblogs/futureoftesting/",
+        "id" : "http://localhost:1313/arvindaru888.github.io/techblogs/futureoftesting/",
+        "url" : "http://localhost:1313/arvindaru888.github.io/techblogs/futureoftesting/",
         "author" : {
           "name" : "Aravind Yamana"
         },
@@ -31,8 +31,8 @@
         "title" : "Request Headers and Response Headers",
         "date_published" : "2024-07-02T20:18:08+05:30",
         "date_modified" : "2024-07-02T20:18:08+05:30",
-        "id" : "http://localhost:1313/techblogs/techblogs/",
-        "url" : "http://localhost:1313/techblogs/techblogs/",
+        "id" : "http://localhost:1313/arvindaru888.github.io/techblogs/techblogs/",
+        "url" : "http://localhost:1313/arvindaru888.github.io/techblogs/techblogs/",
         "author" : {
           "name" : "Aravind Yamana"
         },
@@ -42,8 +42,8 @@
         "title" : "Building websites with Hugo",
         "date_published" : "2023-01-20T08:00:00Z",
         "date_modified" : "2023-01-20T08:00:00Z",
-        "id" : "http://localhost:1313/techblogs/whatisgatling/",
-        "url" : "http://localhost:1313/techblogs/whatisgatling/",
+        "id" : "http://localhost:1313/arvindaru888.github.io/techblogs/whatisgatling/",
+        "url" : "http://localhost:1313/arvindaru888.github.io/techblogs/whatisgatling/",
         "content_html" : "\u003cp\u003eGatling DSL (Domain-Specific Language) is a specialized programming language designed specifically for defining and running performance tests with Gatling, an open-source load testing tool. The DSL allows testers and developers to write expressive, concise, and readable performance test scenarios in Scala, which is the language Gatling is built on. The Gatling DSL abstracts much of the complexity involved in writing performance tests, making it easier to define scenarios, configure requests, and perform checks.\u003c/p\u003e\n\u003cp\u003eKey Features of Gatling DSL are\u003c/p\u003e\n\u003ch3 id=\"scenario-definition\"\u003eScenario Definition:\u003c/h3\u003e\n\u003cp\u003eDefine the sequence of HTTP requests and actions that simulate user behavior.\u003c/p\u003e\n\u003ch3 id=\"http-requests\"\u003eHTTP Requests:\u003c/h3\u003e\n\u003cp\u003eConfigure GET, POST, PUT, DELETE, and other HTTP requests.\u003c/p\u003e\n\u003ch3 id=\"checks\"\u003eChecks:\u003c/h3\u003e\n\u003cp\u003eValidate responses with assertions, such as checking status codes, response times, and specific data in the responses.\u003c/p\u003e\n\u003ch3 id=\"feeders\"\u003eFeeders:\u003c/h3\u003e\n\u003cp\u003eProvide dynamic data to the tests using feeders, which can read data from CSV files, JSON files, and other sources.\u003c/p\u003e\n\u003ch3 id=\"injection-profiles\"\u003eInjection Profiles:\u003c/h3\u003e\n\u003cp\u003eDefine how users are injected into the system over time, such as ramping up users gradually or starting with a burst of users.\u003c/p\u003e\n\u003ch3 id=\"reports\"\u003eReports:\u003c/h3\u003e\n\u003cp\u003eGenerate detailed and graphical reports of the test results, showing metrics like response times, request counts, and error rates.\u003c/p\u003e\n\u003cp\u003eExample of Gatling DSL\nHere\u0026rsquo;s a simple example to demonstrate the usage of the Gatling DSL:\u003c/p\u003e\n\u003ch2 id=\"heading\"\u003e\u003c/h2\u003e\n\u003cpre\u003e\u003ccode\u003eimport io.gatling.core.Predef._\nimport io.gatling.http.Predef._\n\nclass MySimulation extends Simulation {\n\n  // Define the HTTP protocol configuration\n  val httpProtocol = http\n\t.baseUrl(\u0026quot;http://example.com\u0026quot;) // Base URL for all requests\n\t.acceptHeader(\u0026quot;application/json\u0026quot;) // Default headers\n\t.userAgentHeader(\u0026quot;Gatling\u0026quot;)\n\n  // Define a feeder for dynamic data\n  val feeder = csv(\u0026quot;data/users.csv\u0026quot;).circular\n\n  // Define the scenario\n  val scn = scenario(\u0026quot;My Scenario\u0026quot;)\n\t.feed(feeder) // Use the feeder for dynamic data\n\t.exec(http(\u0026quot;Get User\u0026quot;)\n\t  .get(\u0026quot;/user/${userId}\u0026quot;) // Dynamic URL based on feeder data\n\t  .check(status.is(200)) // Check that the response status is 200\n\t  .check(jsonPath(\u0026quot;$.name\u0026quot;).is(\u0026quot;${userName}\u0026quot;)) // Check the JSON response\n\t)\n\n  // Set up the simulation with injection profile\n  setUp(\n\tscn.inject(\n\t  atOnceUsers(10), // Inject 10 users at once\n\t  rampUsers(100).during(10.seconds) // Ramp up to 100 users over 10 seconds\n\t).protocols(httpProtocol) // Use the HTTP protocol configuration\n  )\n}\n\u003c/code\u003e\u003c/pre\u003e\n\u003cp\u003eExplanation\nHTTP Protocol Configuration: Sets the base URL and default headers for the HTTP requests.\nFeeder: Reads dynamic data from a CSV file to be used in the requests.\nScenario Definition: Defines a scenario named \u0026ldquo;My Scenario\u0026rdquo; that performs a GET request to /user/${userId}, where ${userId} is a placeholder for dynamic data from the feeder. The scenario includes checks to validate the response status and specific data in the JSON response.\nInjection Profile: Defines how users are injected into the simulation. In this example, 10 users are injected at once, and then 100 users are ramped up over 10 seconds.\nSimulation Setup: Sets up the simulation with the defined scenario and HTTP protocol configuration.\nBenefits of Gatling DSL\nReadability: The DSL makes it easy to read and understand performance test scenarios, even for those who are not familiar with Scala.\nExpressiveness: The DSL provides a rich set of features to express complex scenarios and checks concisely.\nReusability: Scenarios, feeders, and configurations can be reused across different tests, promoting code reuse and maintainability.\nExtensibility: Custom actions and checks can be implemented in Scala, allowing for advanced customization and extension of the DSL.\nThe Gatling DSL is a powerful tool that simplifies the creation and management of performance tests, enabling teams to effectively simulate and analyze user behavior under load.\u003c/p\u003e\n"
     }
     ]

@@ -62,7 +62,7 @@
         {{ .Scratch.Set "readingTime" "minute" }}
       {{ end }}
       Reading time: {{ .ReadingTime }} {{ .Scratch.Get "readingTime" }}
-      <br/> Tags:
+      <br/> Tags: Test
       {{ with .Param "tags" }}
         {{ range $index, $tag := (. | sort) }} 
           {{ with $.Site.GetPage (printf "/%s/%s" "tags" $tag) }}
@@ -78,10 +78,8 @@
       <img class="rounded max-w-full mx-auto mb-4" src="{{ . }}" alt="{{ $title }}" />
       {{ end -}}
       {{ end }}
-
       {{ .Content }}
       <hr>
-      {{- partial "shortcodes/buymeacoffee.html" . -}}
     </article>
   </div>
 

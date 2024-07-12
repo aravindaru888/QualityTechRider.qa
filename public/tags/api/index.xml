@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>API on Quality Tech Rider</title>
-    <link>http://localhost:1313/tags/api/</link>
+    <link>http://localhost:1313/arvindaru888.github.io/tags/api/</link>
     <description>Recent content in API on Quality Tech Rider</description>
     <generator>Hugo -- gohugo.io</generator>
     <language></language>
-    <lastBuildDate>Tue, 02 Jul 2024 20:18:08 +0530</lastBuildDate><atom:link href="http://localhost:1313/tags/api/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 02 Jul 2024 20:18:08 +0530</lastBuildDate><atom:link href="http://localhost:1313/arvindaru888.github.io/tags/api/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Request Headers and Response Headers</title>
-      <link>http://localhost:1313/techblogs/techblogs/</link>
+      <link>http://localhost:1313/arvindaru888.github.io/techblogs/techblogs/</link>
       <pubDate>Tue, 02 Jul 2024 20:18:08 +0530</pubDate>
       
-      <guid>http://localhost:1313/techblogs/techblogs/</guid>
+      <guid>http://localhost:1313/arvindaru888.github.io/techblogs/techblogs/</guid>
       <description>&lt;h2 id=&#34;what-are-request-headers&#34;&gt;What are Request Headers?&lt;/h2&gt;
 &lt;p&gt;In simple terms additional meta-data sent by the client to server are called Request Headers , some of the main important request headers are as below .&lt;/p&gt;
 &lt;h2 id=&#34;1user-agent-&#34;&gt;1)User-Agent :&lt;/h2&gt;

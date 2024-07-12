@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Articles on Quality Tech Rider</title>
-    <link>http://localhost:1313/techblogs/</link>
+    <link>http://localhost:1313/arvindaru888.github.io/techblogs/</link>
     <description>Recent content in Articles on Quality Tech Rider</description>
     <generator>Hugo -- gohugo.io</generator>
     <language></language>
-    <lastBuildDate>Tue, 02 Jul 2024 22:07:16 +0530</lastBuildDate><atom:link href="http://localhost:1313/techblogs/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 02 Jul 2024 22:07:16 +0530</lastBuildDate><atom:link href="http://localhost:1313/arvindaru888.github.io/techblogs/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Gatling</title>
-      <link>http://localhost:1313/techblogs/techblogs2/</link>
+      <link>http://localhost:1313/arvindaru888.github.io/techblogs/techblogs2/</link>
       <pubDate>Tue, 02 Jul 2024 22:07:16 +0530</pubDate>
       
-      <guid>http://localhost:1313/techblogs/techblogs2/</guid>
+      <guid>http://localhost:1313/arvindaru888.github.io/techblogs/techblogs2/</guid>
       <description>&lt;p&gt;HAR (Http Archive Resource)&lt;/p&gt;
 &lt;p&gt;hi&lt;/p&gt;
 </description>
@@ -20,10 +20,10 @@
     
     <item>
       <title>Future Of Software Testing</title>
-      <link>http://localhost:1313/techblogs/futureoftesting/</link>
+      <link>http://localhost:1313/arvindaru888.github.io/techblogs/futureoftesting/</link>
       <pubDate>Tue, 02 Jul 2024 20:18:08 +0530</pubDate>
       
-      <guid>http://localhost:1313/techblogs/futureoftesting/</guid>
+      <guid>http://localhost:1313/arvindaru888.github.io/techblogs/futureoftesting/</guid>
       <description>&lt;p&gt;The future of software testing is being shaped by several emerging areas. Here&amp;rsquo;s a closer look at AI/ML Testing, Security Testing, and Performance Engineering and Load Testing:&lt;/p&gt;
 &lt;h2 id=&#34;1-aiml-testing&#34;&gt;1. AI/ML Testing&lt;/h2&gt;
 &lt;p&gt;Artificial Intelligence (AI) and Machine Learning (ML) are revolutionizing software testing by introducing automation and intelligent analysis.&lt;/p&gt;
@@ -56,10 +56,10 @@ AI in Performance Testing: AI can analyze performance data to identify patterns 
     
     <item>
       <title>Request Headers and Response Headers</title>
-      <link>http://localhost:1313/techblogs/techblogs/</link>
+      <link>http://localhost:1313/arvindaru888.github.io/techblogs/techblogs/</link>
       <pubDate>Tue, 02 Jul 2024 20:18:08 +0530</pubDate>
       
-      <guid>http://localhost:1313/techblogs/techblogs/</guid>
+      <guid>http://localhost:1313/arvindaru888.github.io/techblogs/techblogs/</guid>
       <description>&lt;h2 id=&#34;what-are-request-headers&#34;&gt;What are Request Headers?&lt;/h2&gt;
 &lt;p&gt;In simple terms additional meta-data sent by the client to server are called Request Headers , some of the main important request headers are as below .&lt;/p&gt;
 &lt;h2 id=&#34;1user-agent-&#34;&gt;1)User-Agent :&lt;/h2&gt;
@@ -104,10 +104,10 @@ AI in Performance Testing: AI can analyze performance data to identify patterns 
     
     <item>
       <title>Building websites with Hugo</title>
-      <link>http://localhost:1313/techblogs/whatisgatling/</link>
+      <link>http://localhost:1313/arvindaru888.github.io/techblogs/whatisgatling/</link>
       <pubDate>Fri, 20 Jan 2023 08:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/techblogs/whatisgatling/</guid>
+      <guid>http://localhost:1313/arvindaru888.github.io/techblogs/whatisgatling/</guid>
       <description>&lt;p&gt;Gatling DSL (Domain-Specific Language) is a specialized programming language designed specifically for defining and running performance tests with Gatling, an open-source load testing tool. The DSL allows testers and developers to write expressive, concise, and readable performance test scenarios in Scala, which is the language Gatling is built on. The Gatling DSL abstracts much of the complexity involved in writing performance tests, making it easier to define scenarios, configure requests, and perform checks.&lt;/p&gt;
 &lt;p&gt;Key Features of Gatling DSL are&lt;/p&gt;
 &lt;h3 id=&#34;scenario-definition&#34;&gt;Scenario Definition:&lt;/h3&gt;
