@@ -1,0 +1,78 @@
+baseURL = 'https://aravindaru888.github.io/arvindaru888.github.io/'
+languageCode = 'en-us'
+title = 'Quality Tech Rider'
+theme='digital-garden-hugo'
+
+[menu]
+[[menu.main]]
+  name = 'Home'
+  url = '/'
+  weight = 1
+[[menu.main]]
+  name = 'Content'
+  params.header = true
+  weight = 2
+[[menu.main]]
+  name = 'Tech Blogs'
+  url = '/techblogs'
+  weight = 3
+[[menu.main]]
+  name = 'Tricks and Tips'
+  url = '/tricksandtips'
+  weight = 4
+[[menu.main]]
+  name = 'Tools'
+  url = '/tools'
+  weight = 5
+[[menu.main]]
+  name = 'Now'
+  url = '/now'
+  weight = 6
+[[menu.main]]
+  name = 'Quick Notes or References'
+  url = '/refer'
+  weight = 7
+[[menu.main]]
+  name = 'Verify'
+  url = '/verify'
+  weight = 8
+[[menu.main]]
+  name = 'Tags'
+  url = '/tags'
+  weight = 9
+[[menu.main]]
+  name = 'Links'
+  params.header = true
+  weight = 10
+[[menu.main]]
+  name = 'Support'
+  url = 'https://www.linkedin.com/in/aravind-yamana-8b86b8214'
+  weight = 11
+[[menu.social]]
+  name = 'LinkedIn'
+  url = 'https://www.linkedin.com/in/aravind-yamana-8b86b8214'
+  weight = 1
+[[menu.social]]
+  name = 'FaceBook'
+  url = ''
+  weight = 2
+[[menu.social]]
+  name = 'GitHub'
+  url = 'https://github.com/aravindaru888'
+  weight = 3
+[[menu.social]]
+  name = 'Email'
+  url = 'mailto:arvindaru888@gmail.com'
+  weight = 4
+[[menu.social]]
+  name = 'RSS'
+  url = '/articles/index.xml'
+  weight = 5
+
+# syntax highlight settings
+[markup]
+  [markup.highlight]
+    style = "dracula"
+
+[outputs]
+    section = ["HTML","RSS", "JSON"]

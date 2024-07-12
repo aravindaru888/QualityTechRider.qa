@@ -1,9 +1,12 @@
-+++
-title = 'What is Gatling ?'
-date = 2024-07-10T18:06:07+05:30
-draft = true
-author='Aravind Yamana' 
-+++
+---
+title: Building websites with Hugo
+date: 2023-01-20T08:00:00
+lastmod: 2024-05-07T18:05:00
+images: 
+- /img/gatling/Gatling-logo-RVB.png
+description: A guide on building your own website for free using Hugo and Github Pages.
+tags: ['web-dev', 'hugo', 'guide']
+---
 
 Gatling DSL (Domain-Specific Language) is a specialized programming language designed specifically for defining and running performance tests with Gatling, an open-source load testing tool. The DSL allows testers and developers to write expressive, concise, and readable performance test scenarios in Scala, which is the language Gatling is built on. The Gatling DSL abstracts much of the complexity involved in writing performance tests, making it easier to define scenarios, configure requests, and perform checks.
 

@@ -2,15 +2,15 @@
     "version" : "https://jsonfeed.org/version/1",
     "title" : "Tricksandtips on Quality Tech Rider",
     "description": "Recent content in Tricksandtips on Quality Tech Rider",
-    "home_page_url" : "http://localhost:1313/arvindaru888.github.io/",
-    "feed_url" : "http://localhost:1313/arvindaru888.github.io/tricksandtips/index.json",
+    "home_page_url" : "http://localhost:1313/",
+    "feed_url" : "http://localhost:1313/tricksandtips/index.json",
     "items" : [
     {
         "title" : "TipsAndTricksForGit",
         "date_published" : "2024-07-02T22:20:46+05:30",
         "date_modified" : "2024-07-02T22:20:46+05:30",
-        "id" : "http://localhost:1313/arvindaru888.github.io/tricksandtips/tipsandtricksforgit/",
-        "url" : "http://localhost:1313/arvindaru888.github.io/tricksandtips/tipsandtricksforgit/",
+        "id" : "http://localhost:1313/tricksandtips/tipsandtricksforgit/",
+        "url" : "http://localhost:1313/tricksandtips/tipsandtricksforgit/",
         "content_html" : "\u003ch1 id=\"this-is-just-a-sample-tricks-page\"\u003eThis is just a sample tricks page\u003c/h1\u003e\n"
     }
     ]

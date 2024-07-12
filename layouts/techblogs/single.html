@@ -49,7 +49,7 @@
 
       {{ $title := .Params.title }}
       <h1 class="!mb-2">{{ $title }}</h1>
-      <p class="text-sm text-slate-500 !mb-8"> Author : {{.Params.author }}</p>
+
 	  {{ if .Date }}
       <p class="text-sm text-slate-500 !mb-8"> Planted {{ $date }}
 		{{ if ne $lastmod $date}}
@@ -62,7 +62,7 @@
         {{ .Scratch.Set "readingTime" "minute" }}
       {{ end }}
       Reading time: {{ .ReadingTime }} {{ .Scratch.Get "readingTime" }}
-      <br/> Tags: 
+      <br/> Tags:
       {{ with .Param "tags" }}
         {{ range $index, $tag := (. | sort) }} 
           {{ with $.Site.GetPage (printf "/%s/%s" "tags" $tag) }}
@@ -78,9 +78,10 @@
       <img class="rounded max-w-full mx-auto mb-4" src="{{ . }}" alt="{{ $title }}" />
       {{ end -}}
       {{ end }}
+
       {{ .Content }}
-	  <u>If you like it please leave a thums Up !</u>
       <hr>
+      {{- partial "shortcodes/buymeacoffee.html" . -}}
     </article>
   </div>
 

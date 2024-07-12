@@ -1,8 +1,6 @@
-+++
-title = 'About Me'
-date = 2024-07-02T19:49:00+05:30
-draft = true
-+++
+---
+title: About Me
+---
 
 
 # Hello, I'm Aravind 👋🏽
