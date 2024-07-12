@@ -2,53 +2,53 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Quality Tech Rider</title>
-    <link>http://localhost:50386/tags/</link>
+    <link>http://localhost:1313/tags/</link>
     <description>Recent content in Tags on Quality Tech Rider</description>
     <generator>Hugo -- gohugo.io</generator>
     <language></language>
-    <lastBuildDate>Tue, 02 Jul 2024 20:18:08 +0530</lastBuildDate><atom:link href="http://localhost:50386/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 02 Jul 2024 20:18:08 +0530</lastBuildDate><atom:link href="http://localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>API</title>
-      <link>http://localhost:50386/tags/api/</link>
+      <link>http://localhost:1313/tags/api/</link>
       <pubDate>Tue, 02 Jul 2024 20:18:08 +0530</pubDate>
       
-      <guid>http://localhost:50386/tags/api/</guid>
+      <guid>http://localhost:1313/tags/api/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Future of QA</title>
-      <link>http://localhost:50386/tags/future-of-qa/</link>
+      <link>http://localhost:1313/tags/future-of-qa/</link>
       <pubDate>Tue, 02 Jul 2024 20:18:08 +0530</pubDate>
       
-      <guid>http://localhost:50386/tags/future-of-qa/</guid>
+      <guid>http://localhost:1313/tags/future-of-qa/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Guide</title>
-      <link>http://localhost:50386/tags/guide/</link>
+      <link>http://localhost:1313/tags/guide/</link>
       <pubDate>Fri, 20 Jan 2023 08:00:00 +0000</pubDate>
       
-      <guid>http://localhost:50386/tags/guide/</guid>
+      <guid>http://localhost:1313/tags/guide/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Hugo</title>
-      <link>http://localhost:50386/tags/hugo/</link>
+      <link>http://localhost:1313/tags/hugo/</link>
       <pubDate>Fri, 20 Jan 2023 08:00:00 +0000</pubDate>
       
-      <guid>http://localhost:50386/tags/hugo/</guid>
+      <guid>http://localhost:1313/tags/hugo/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Web-Dev</title>
-      <link>http://localhost:50386/tags/web-dev/</link>
+      <link>http://localhost:1313/tags/web-dev/</link>
       <pubDate>Fri, 20 Jan 2023 08:00:00 +0000</pubDate>
       
-      <guid>http://localhost:50386/tags/web-dev/</guid>
+      <guid>http://localhost:1313/tags/web-dev/</guid>
       <description></description>
     </item>
     

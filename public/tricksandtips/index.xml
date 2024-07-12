@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tricksandtips on Quality Tech Rider</title>
-    <link>http://localhost:50386/tricksandtips/</link>
+    <link>http://localhost:1313/tricksandtips/</link>
     <description>Recent content in Tricksandtips on Quality Tech Rider</description>
     <generator>Hugo -- gohugo.io</generator>
     <language></language>
-    <lastBuildDate>Tue, 02 Jul 2024 22:20:46 +0530</lastBuildDate><atom:link href="http://localhost:50386/tricksandtips/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 02 Jul 2024 22:20:46 +0530</lastBuildDate><atom:link href="http://localhost:1313/tricksandtips/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>TipsAndTricksForGit</title>
-      <link>http://localhost:50386/tricksandtips/tipsandtricksforgit/</link>
+      <link>http://localhost:1313/tricksandtips/tipsandtricksforgit/</link>
       <pubDate>Tue, 02 Jul 2024 22:20:46 +0530</pubDate>
       
-      <guid>http://localhost:50386/tricksandtips/tipsandtricksforgit/</guid>
+      <guid>http://localhost:1313/tricksandtips/tipsandtricksforgit/</guid>
       <description>&lt;h1 id=&#34;this-is-just-a-sample-tricks-page&#34;&gt;This is just a sample tricks page&lt;/h1&gt;
 </description>
     </item>

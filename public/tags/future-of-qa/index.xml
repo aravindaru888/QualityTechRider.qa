@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Future of QA on Quality Tech Rider</title>
-    <link>http://localhost:50386/tags/future-of-qa/</link>
+    <link>http://localhost:1313/tags/future-of-qa/</link>
     <description>Recent content in Future of QA on Quality Tech Rider</description>
     <generator>Hugo -- gohugo.io</generator>
     <language></language>
-    <lastBuildDate>Tue, 02 Jul 2024 20:18:08 +0530</lastBuildDate><atom:link href="http://localhost:50386/tags/future-of-qa/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 02 Jul 2024 20:18:08 +0530</lastBuildDate><atom:link href="http://localhost:1313/tags/future-of-qa/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Future Of Software Testing</title>
-      <link>http://localhost:50386/techblogs/futureoftesting/</link>
+      <link>http://localhost:1313/techblogs/futureoftesting/</link>
       <pubDate>Tue, 02 Jul 2024 20:18:08 +0530</pubDate>
       
-      <guid>http://localhost:50386/techblogs/futureoftesting/</guid>
+      <guid>http://localhost:1313/techblogs/futureoftesting/</guid>
       <description>&lt;p&gt;The future of software testing is being shaped by several emerging areas. Here&amp;rsquo;s a closer look at AI/ML Testing, Security Testing, and Performance Engineering and Load Testing:&lt;/p&gt;
 &lt;h2 id=&#34;1-aiml-testing&#34;&gt;1. AI/ML Testing&lt;/h2&gt;
 &lt;p&gt;Artificial Intelligence (AI) and Machine Learning (ML) are revolutionizing software testing by introducing automation and intelligent analysis.&lt;/p&gt;
