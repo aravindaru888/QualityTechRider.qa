@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Guide on Quality Tech Rider</title>
-    <link>http://localhost:1313/arvindaru888.github.io/tags/guide/</link>
+    <link>http://localhost:50386/tags/guide/</link>
     <description>Recent content in Guide on Quality Tech Rider</description>
     <generator>Hugo -- gohugo.io</generator>
     <language></language>
-    <lastBuildDate>Fri, 20 Jan 2023 08:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/arvindaru888.github.io/tags/guide/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 20 Jan 2023 08:00:00 +0000</lastBuildDate><atom:link href="http://localhost:50386/tags/guide/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Gatling</title>
-      <link>http://localhost:1313/arvindaru888.github.io/techblogs/whatisgatling/</link>
+      <link>http://localhost:50386/techblogs/whatisgatling/</link>
       <pubDate>Fri, 20 Jan 2023 08:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/arvindaru888.github.io/techblogs/whatisgatling/</guid>
+      <guid>http://localhost:50386/techblogs/whatisgatling/</guid>
       <description>&lt;p&gt;Gatling DSL (Domain-Specific Language) is a specialized programming language designed specifically for defining and running performance tests with Gatling, an open-source load testing tool. The DSL allows testers and developers to write expressive, concise, and readable performance test scenarios in Scala, which is the language Gatling is built on. The Gatling DSL abstracts much of the complexity involved in writing performance tests, making it easier to define scenarios, configure requests, and perform checks.&lt;/p&gt;
 &lt;p&gt;Key Features of Gatling DSL are&lt;/p&gt;
 &lt;h3 id=&#34;scenario-definition&#34;&gt;Scenario Definition:&lt;/h3&gt;
