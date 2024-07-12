@@ -77,5 +77,15 @@ The Gatling DSL is a powerful tool that simplifies the creation and management o
 </description>
     </item>
     
+    <item>
+      <title>Tricks</title>
+      <link>http://localhost:1313/tricksandtips/tipsandtricksforgit/</link>
+      <pubDate>Fri, 20 Jan 2023 08:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/tricksandtips/tipsandtricksforgit/</guid>
+      <description>&lt;h1 id=&#34;this-is-just-a-sample-tricks-page&#34;&gt;This is just a sample tricks page&lt;/h1&gt;
+</description>
+    </item>
+    
   </channel>
 </rss>

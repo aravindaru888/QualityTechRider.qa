@@ -6,11 +6,11 @@
     <description>Recent content in Tags on Quality Tech Rider</description>
     <generator>Hugo -- gohugo.io</generator>
     <language></language>
-    <lastBuildDate>Tue, 02 Jul 2024 20:18:08 +0530</lastBuildDate><atom:link href="http://localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 20 Jan 2023 08:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>API</title>
       <link>http://localhost:1313/tags/api/</link>
-      <pubDate>Tue, 02 Jul 2024 20:18:08 +0530</pubDate>
+      <pubDate>Fri, 20 Jan 2023 08:00:00 +0000</pubDate>
       
       <guid>http://localhost:1313/tags/api/</guid>
       <description></description>
@@ -19,7 +19,7 @@
     <item>
       <title>Future of QA</title>
       <link>http://localhost:1313/tags/future-of-qa/</link>
-      <pubDate>Tue, 02 Jul 2024 20:18:08 +0530</pubDate>
+      <pubDate>Fri, 20 Jan 2023 08:00:00 +0000</pubDate>
       
       <guid>http://localhost:1313/tags/future-of-qa/</guid>
       <description></description>
@@ -40,6 +40,15 @@
       <pubDate>Fri, 20 Jan 2023 08:00:00 +0000</pubDate>
       
       <guid>http://localhost:1313/tags/hugo/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>NFR</title>
+      <link>http://localhost:1313/tags/nfr/</link>
+      <pubDate>Fri, 20 Jan 2023 08:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/tags/nfr/</guid>
       <description></description>
     </item>
     

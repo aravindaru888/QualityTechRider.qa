@@ -1,11 +1,12 @@
-+++
-title = 'Request Headers and Response Headers'
-date = 2024-07-02T20:18:08+05:30
-draft = true
-tags= ['API']
-author ='Aravind Yamana'
-+++
-
+---
+title: 'Request Headers and Response Headers'
+date: 2023-01-20T08:00:00
+lastmod: 2024-05-07T18:05:00
+images: 
+- /img/API_Testing/th.jpg
+description: Performance Testing.
+tags: ['API',NFR]
+---
 
 ## What are Request Headers? 
 

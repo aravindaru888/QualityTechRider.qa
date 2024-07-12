@@ -3,11 +3,10 @@ title: Future of QA
 date: 2023-01-20T08:00:00
 lastmod: 2024-05-07T18:05:00
 images: 
-- /img/gatling/Gatling-logo-RVB.png
+- /img/Future/th.jpg
 description: Gatling.
 tags: ['Future of QA']
 ---
-
 Hi
 
 The future of software testing is being shaped by several emerging areas. Here's a closer look at AI/ML Testing, Security Testing, and Performance Engineering and Load Testing:

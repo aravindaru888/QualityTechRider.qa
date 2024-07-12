@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>API on Quality Tech Rider</title>
-    <link>http://localhost:1313/tags/api/</link>
-    <description>Recent content in API on Quality Tech Rider</description>
+    <title>NFR on Quality Tech Rider</title>
+    <link>http://localhost:1313/tags/nfr/</link>
+    <description>Recent content in NFR on Quality Tech Rider</description>
     <generator>Hugo -- gohugo.io</generator>
     <language></language>
-    <lastBuildDate>Fri, 20 Jan 2023 08:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/api/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 20 Jan 2023 08:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/nfr/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Request Headers and Response Headers</title>
       <link>http://localhost:1313/techblogs/techblogs/</link>
