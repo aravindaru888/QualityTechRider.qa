@@ -9,65 +9,58 @@
   {
     "name": "HP-UFT",
     "description": "Licensed Web Automation Tool",
-    "link": "https://arc.net/",
-    "icon": "https://raw.githubusercontent.com/skyth3r/skyth3r.github.io/master/assets/tools-images/arc.png",
-    "tag": "Utilities"
-  },
-  {
-    "name": "LeanFt",
-    "description": "Minimal writing app with markdown support",
-    "link": "https://bear.app/",
-    "icon": "https://raw.githubusercontent.com/skyth3r/skyth3r.github.io/master/assets/tools-images/bear.png",
-    "tag": "Utilities"
+    "link": "https://www.opentext.com/products/uft-one/",
+    "icon": "https://cdn.githubraw.com/aravindaru888/aravindaru888.github.io/gh-deploy/assets/Leanft.jpg",
+    "tag": "Licensed Automation Tool"
   },
   {
     "name": "RestAssured",
     "description": "Markdown based note taking app",
-    "link": "https://obsidian.md/",
-    "icon": "https://raw.githubusercontent.com/skyth3r/skyth3r.github.io/master/assets/tools-images/obsidian.png",
-    "tag": "Productivity"
+    "link": "https://rest-assured.io/",
+    "icon": "https://cdn.githubraw.com/aravindaru888/aravindaru888.github.io/gh-deploy/assets/Rest-assured.jpg",
+    "tag": "REST API Test Automation"
   },
   {
     "name": "PostMan",
-    "description": "What I use to review my highlights from books & articles",
-    "link": "https://readwise.io/i/akash56",
-    "icon": "https://raw.githubusercontent.com/skyth3r/skyth3r.github.io/master/assets/tools-images/readwise.png",
-    "tag": "Productivity"
+    "description": "I use it for API testing",
+    "link": "https://www.postman.com/",
+    "icon": "https://cdn.githubraw.com/aravindaru888/aravindaru888.github.io/gh-deploy/assets/Postman.jpg",
+    "tag": "API Testing"
   },
   {
     "name": "Jmeter",
-    "description": "A powerful read it later app that integrates with Readwise",
-    "link": "https://readwise.io/read",
-    "icon": "https://raw.githubusercontent.com/skyth3r/skyth3r.github.io/master/assets/tools-images/reader.png",
-    "tag": "Productivity"
+    "description": "Open source performance testing tool",
+    "link": "https://jmeter.apache.org/",
+    "icon": "https://cdn.githubraw.com/aravindaru888/aravindaru888.github.io/gh-deploy/assets/Jmeter.png",
+    "tag": "Performance Testing Tool"
   },
   {
     "name": "Gatling",
-    "description": "Cross platform bookmark manager",
-    "link": "https://raindrop.io/",
-    "icon": "https://raw.githubusercontent.com/skyth3r/skyth3r.github.io/master/assets/tools-images/raindrop.png",
-    "tag": "Utilities"
+    "description": "Load Testing as code",
+    "link": "https://gatling.io/",
+    "icon": "https://cdn.githubraw.com/aravindaru888/aravindaru888.github.io/gh-deploy/assets/Gatling-logo-RVB.png",
+    "tag": "Performance Testing Tool"
   },
   {
     "name": "SQL",
-    "description": "A free and open source RSS reader for Mac, iPhone, and iPad",
-    "link": "https://netnewswire.com/",
-    "icon": "https://raw.githubusercontent.com/skyth3r/skyth3r.github.io/master/assets/tools-images/netnewswire.png",
-    "tag": "Utilities"
+    "description": "Language to Deal with Databases",
+    "link": "https://www.oracle.com/",
+    "icon": "https://cdn.githubraw.com/aravindaru888/aravindaru888.github.io/gh-deploy/assets/oracle_sql.png",
+    "tag": "DataBase Language"
   },
   {
     "name": "Jenkins",
-    "description": "My favourite Twitter writing/scheduling app",
-    "link": "https://typefully.com/?via=akash",
+    "description": "CI/CD Tool",
+    "link": "https://www.jenkins.io/",
     "icon": "https://raw.githubusercontent.com/skyth3r/skyth3r.github.io/master/assets/tools-images/typefully.png",
-    "tag": "Social"
+    "tag": "CI/CD"
   },
   {
     "name": "Java",
-    "description": "Versatile note taking app",
-    "link": "https://www.notion.so/",
-    "icon": "https://raw.githubusercontent.com/skyth3r/skyth3r.github.io/master/assets/tools-images/notion.png",
-    "tag": "Productivity"
+    "description": "Very Famous Programming Language",
+    "link": "https://www.java.com/en/",
+    "icon": "https://cdn.githubraw.com/aravindaru888/aravindaru888.github.io/gh-deploy/assets/Java.jpg",
+    "tag": "Programming Language"
   },
   {
     "name": "GitHub",
@@ -78,58 +71,58 @@
   },
   {
     "name": "Python",
-    "description": "My favourite terminal app for MacOS",
-    "link": "https://iterm2.com/",
-    "icon": "https://raw.githubusercontent.com/skyth3r/skyth3r.github.io/master/assets/tools-images/iterm.png",
+    "description": "Coding Language",
+    "link": "https://www.python.org/",
+    "icon": "https://cdn.githubraw.com/aravindaru888/aravindaru888.github.io/gh-deploy/assets/Python.jpg",
     "tag": "Coding"
   },
   {
     "name": "PlayWright",
-    "description": "Instant cloud development environment tool",
-    "link": "https://www.gitpod.io/",
-    "icon": "https://raw.githubusercontent.com/skyth3r/skyth3r.github.io/master/assets/tools-images/gitpod.png",
-    "tag": "Coding"
+    "description": "TypeScript based Automation Tool",
+    "link": "https://playwright.dev/",
+    "icon": "https://cdn.githubraw.com/aravindaru888/aravindaru888.github.io/gh-deploy/assets/PlayWright.png",
+    "tag": "Test Automation"
   },
   {
     "name": "Maven",
-    "description": "Slack style emojo shortcuts for MacOS",
-    "link": "https://matthewpalmer.net/rocket/",
-    "icon": "https://raw.githubusercontent.com/skyth3r/skyth3r.github.io/master/assets/tools-images/rocket.png",
-    "tag": "Utilities"
+    "description": "Build Tool",
+    "link": "https://mvnrepository.com/",
+    "icon": "https://cdn.githubraw.com/aravindaru888/aravindaru888.github.io/gh-deploy/assets/maven-logo-black-on-white.png",
+    "tag": "Build Tool"
   },
   {
     "name": "Azure DevOps",
-    "description": "Supercharged application launcher for MacOS",
-    "link": "https://www.raycast.com/",
-    "icon": "https://raw.githubusercontent.com/skyth3r/skyth3r.github.io/master/assets/tools-images/raycast.png",
-    "tag": "Utilities"
+    "description": "Azure DevOps offers a set of modern dev services to plan, track, build, test, and deploy any language, platform, and cloud.",
+    "link": "https://azure.microsoft.com/en-in/products/devops/",
+    "icon": "https://cdn.githubraw.com/aravindaru888/aravindaru888.github.io/gh-deploy/assets/AzureDevOps.jpg",
+    "tag": "Cloud"
   },
   {
     "name": "Appium",
-    "description": "Web based design tool",
-    "link": "https://www.figma.com/",
-    "icon": "https://raw.githubusercontent.com/skyth3r/skyth3r.github.io/master/assets/tools-images/figma.png",
-    "tag": "Design"
+    "description": "Mobile Test Automation Framework",
+    "link": "https://appium.io/docs/en/2.0/intro/",
+    "icon": "https://cdn.githubraw.com/aravindaru888/aravindaru888.github.io/gh-deploy/assets/appium.jpg",
+    "tag": "Mobile Automation"
   },
   {
     "name": "Intellij IDE",
-    "description": "Light weight source code editor",
-    "link": "https://code.visualstudio.com/",
-    "icon": "https://raw.githubusercontent.com/skyth3r/skyth3r.github.io/master/assets/tools-images/vs-code.png",
+    "description": "IDE for Coding",
+    "link": "https://www.jetbrains.com/idea/",
+    "icon": "https://cdn.githubraw.com/aravindaru888/aravindaru888.github.io/gh-deploy/assets/Ij.jpg",
     "tag": "Coding"
   },
   {
     "name": "Eclipse IDE",
     "description": "IDE for Coding",
-    "link": "https://www.jetbrains.com/go/",
-    "icon": "https://raw.githubusercontent.com/skyth3r/skyth3r.github.io/master/assets/tools-images/goland.png",
+    "link": "https://eclipseide.org/",
+    "icon": "https://cdn.githubraw.com/aravindaru888/aravindaru888.github.io/gh-deploy/assets/eclipse-ide-new.jpg",
     "tag": "Coding"
   },
   {
     "name": "SnowFlake",
-    "description": "Virtual whiteboarding tool for sketching hand-drawn like diagrams",
-    "link": "https://excalidraw.com/",
-    "icon": "https://raw.githubusercontent.com/skyth3r/skyth3r.github.io/master/assets/tools-images/excalidraw.png",
+    "description": "Cloud Data Wearhouse",
+    "link": "https://www.snowflake.com/en/data-cloud/platform/",
+    "icon": "https://cdn.githubraw.com/aravindaru888/aravindaru888.github.io/gh-deploy/assets/sf.png",
     "tag": "Cloud Data Wearhouse"
   }
 ]

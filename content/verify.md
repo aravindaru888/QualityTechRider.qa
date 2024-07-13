@@ -2,7 +2,7 @@
 title: Verify
 ---
 
-This page serves as record for my online identity. It is inspired by [Molly White\'s verify page.](https://www.mollywhite.net/verify/)
+This page serves as record for my online identity.
 
 The accounts listed below are the public facing accounts I use online:
 

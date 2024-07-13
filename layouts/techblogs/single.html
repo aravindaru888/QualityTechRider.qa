@@ -62,7 +62,7 @@
         {{ .Scratch.Set "readingTime" "minute" }}
       {{ end }}
       Reading time: {{ .ReadingTime }} {{ .Scratch.Get "readingTime" }}
-      <br/> Tags: Test
+      <br/> Tags:
       {{ with .Param "tags" }}
         {{ range $index, $tag := (. | sort) }} 
           {{ with $.Site.GetPage (printf "/%s/%s" "tags" $tag) }}

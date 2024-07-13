@@ -2,66 +2,72 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/</loc>
+    <loc>//localhost:1313/</loc>
+    <lastmod>2024-07-12T18:05:00+00:00</lastmod>
+  </url><url>
+    <loc>//localhost:1313/techblogs/futureoftesting/</loc>
+    <lastmod>2024-07-12T18:05:00+00:00</lastmod>
+  </url><url>
+    <loc>//localhost:1313/tags/futureofqa/</loc>
+    <lastmod>2024-07-12T18:05:00+00:00</lastmod>
+  </url><url>
+    <loc>//localhost:1313/tags/qa/</loc>
+    <lastmod>2024-07-12T18:05:00+00:00</lastmod>
+  </url><url>
+    <loc>//localhost:1313/tags/softwaretesting/</loc>
+    <lastmod>2024-07-12T18:05:00+00:00</lastmod>
+  </url><url>
+    <loc>//localhost:1313/tags/</loc>
+    <lastmod>2024-07-12T18:05:00+00:00</lastmod>
+  </url><url>
+    <loc>//localhost:1313/techblogs/</loc>
+    <lastmod>2024-07-12T18:05:00+00:00</lastmod>
+  </url><url>
+    <loc>//localhost:1313/refer/</loc>
     <lastmod>2024-07-08T13:21:29+05:30</lastmod>
   </url><url>
-    <loc>http://localhost:1313/refer/</loc>
+    <loc>//localhost:1313/refer/todolist/</loc>
     <lastmod>2024-07-08T13:21:29+05:30</lastmod>
   </url><url>
-    <loc>http://localhost:1313/refer/todolist/</loc>
-    <lastmod>2024-07-08T13:21:29+05:30</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/refer/quicklinksforreferences/</loc>
+    <loc>//localhost:1313/refer/quicklinksforreferences/</loc>
     <lastmod>2024-07-04T23:45:48+05:30</lastmod>
   </url><url>
-    <loc>http://localhost:1313/refer/hugoreferences/</loc>
+    <loc>//localhost:1313/refer/hugoreferences/</loc>
     <lastmod>2024-07-04T23:45:25+05:30</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/api/</loc>
+    <loc>//localhost:1313/tags/api/</loc>
     <lastmod>2024-05-07T18:05:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/future-of-qa/</loc>
+    <loc>//localhost:1313/techblogs/whatisgatling/</loc>
     <lastmod>2024-05-07T18:05:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/techblogs/futureoftesting/</loc>
+    <loc>//localhost:1313/tags/guide/</loc>
     <lastmod>2024-05-07T18:05:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/techblogs/whatisgatling/</loc>
+    <loc>//localhost:1313/tags/hugo/</loc>
     <lastmod>2024-05-07T18:05:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/guide/</loc>
+    <loc>//localhost:1313/tags/nfr/</loc>
     <lastmod>2024-05-07T18:05:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/hugo/</loc>
+    <loc>//localhost:1313/techblogs/techblogs/</loc>
     <lastmod>2024-05-07T18:05:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/nfr/</loc>
+    <loc>//localhost:1313/tricksandtips/tipsandtricksforgit/</loc>
     <lastmod>2024-05-07T18:05:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/techblogs/techblogs/</loc>
+    <loc>//localhost:1313/tricksandtips/</loc>
     <lastmod>2024-05-07T18:05:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/</loc>
+    <loc>//localhost:1313/tags/web-dev/</loc>
     <lastmod>2024-05-07T18:05:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/techblogs/</loc>
-    <lastmod>2024-05-07T18:05:00+00:00</lastmod>
+    <loc>//localhost:1313/categories/</loc>
   </url><url>
-    <loc>http://localhost:1313/tricksandtips/tipsandtricksforgit/</loc>
-    <lastmod>2024-05-07T18:05:00+00:00</lastmod>
+    <loc>//localhost:1313/now/</loc>
   </url><url>
-    <loc>http://localhost:1313/tricksandtips/</loc>
-    <lastmod>2024-05-07T18:05:00+00:00</lastmod>
+    <loc>//localhost:1313/tools/</loc>
   </url><url>
-    <loc>http://localhost:1313/tags/web-dev/</loc>
-    <lastmod>2024-05-07T18:05:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/categories/</loc>
-  </url><url>
-    <loc>http://localhost:1313/now/</loc>
-  </url><url>
-    <loc>http://localhost:1313/tools/</loc>
-  </url><url>
-    <loc>http://localhost:1313/verify/</loc>
+    <loc>//localhost:1313/verify/</loc>
   </url>
 </urlset>

@@ -1,13 +1,12 @@
-baseURL = 'https:aravindaru88.github.io/arvindaru888.github.io/'
+baseURL = 'https://example.org/'
 languageCode = 'en-us'
 title = 'Quality Tech Rider'
 theme = ['hugo-cloak-email', 'digital-garden-hugo-theme']
 
-
 [menu]
 [[menu.main]]
   name = 'Home'
-  url = '/'
+  url = '/index.html'
   weight = 1
 [[menu.main]]
   name = 'Content'
