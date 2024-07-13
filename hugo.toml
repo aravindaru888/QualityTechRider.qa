@@ -1,12 +1,12 @@
-baseURL = 'https:aravindaru88.github.io/arvindaru888.github.io/'
+baseURL = 'https://example.org/'
 languageCode = 'en-us'
 title = 'Quality Tech Rider'
-theme='digital-garden-hugo-theme'
+theme = ['hugo-cloak-email', 'digital-garden-hugo-theme']
 
 [menu]
 [[menu.main]]
   name = 'Home'
-  url = '/'
+  url = '/index.html'
   weight = 1
 [[menu.main]]
   name = 'Content'
@@ -64,10 +64,6 @@ theme='digital-garden-hugo-theme'
   name = 'Email'
   url = 'mailto:arvindaru888@gmail.com'
   weight = 4
-[[menu.social]]
-  name = 'RSS'
-  url = '/articles/index.xml'
-  weight = 5
 
 # syntax highlight settings
 [markup]

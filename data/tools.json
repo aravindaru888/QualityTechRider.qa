@@ -84,7 +84,7 @@
     "tag": "Coding"
   },
   {
-    "name": "PlayWrite",
+    "name": "PlayWright",
     "description": "Instant cloud development environment tool",
     "link": "https://www.gitpod.io/",
     "icon": "https://raw.githubusercontent.com/skyth3r/skyth3r.github.io/master/assets/tools-images/gitpod.png",
@@ -98,7 +98,7 @@
     "tag": "Utilities"
   },
   {
-    "name": "BrowserStack",
+    "name": "Azure DevOps",
     "description": "Supercharged application launcher for MacOS",
     "link": "https://www.raycast.com/",
     "icon": "https://raw.githubusercontent.com/skyth3r/skyth3r.github.io/master/assets/tools-images/raycast.png",
@@ -120,16 +120,16 @@
   },
   {
     "name": "Eclipse IDE",
-    "description": "Feature packed IDE for Go",
+    "description": "IDE for Coding",
     "link": "https://www.jetbrains.com/go/",
     "icon": "https://raw.githubusercontent.com/skyth3r/skyth3r.github.io/master/assets/tools-images/goland.png",
     "tag": "Coding"
   },
   {
-    "name": "Excalidraw",
+    "name": "SnowFlake",
     "description": "Virtual whiteboarding tool for sketching hand-drawn like diagrams",
     "link": "https://excalidraw.com/",
     "icon": "https://raw.githubusercontent.com/skyth3r/skyth3r.github.io/master/assets/tools-images/excalidraw.png",
-    "tag": "Utilities"
+    "tag": "Cloud Data Wearhouse"
   }
 ]

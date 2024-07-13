@@ -6,18 +6,7 @@
     <description>Recent content in TechBlogs on Quality Tech Rider</description>
     <generator>Hugo -- gohugo.io</generator>
     <language></language>
-    <lastBuildDate>Tue, 02 Jul 2024 22:07:16 +0530</lastBuildDate><atom:link href="http://localhost:1313/techblogs/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Gatling</title>
-      <link>http://localhost:1313/techblogs/techblogs2/</link>
-      <pubDate>Tue, 02 Jul 2024 22:07:16 +0530</pubDate>
-      
-      <guid>http://localhost:1313/techblogs/techblogs2/</guid>
-      <description>&lt;p&gt;HAR (Http Archive Resource)&lt;/p&gt;
-&lt;p&gt;hi&lt;/p&gt;
-</description>
-    </item>
-    
+    <lastBuildDate>Fri, 20 Jan 2023 08:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/techblogs/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Future of QA</title>
       <link>http://localhost:1313/techblogs/futureoftesting/</link>

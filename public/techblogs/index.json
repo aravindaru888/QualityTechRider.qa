@@ -6,17 +6,6 @@
     "feed_url" : "http://localhost:1313/techblogs/index.json",
     "items" : [
     {
-        "title" : "Gatling",
-        "date_published" : "2024-07-02T22:07:16+05:30",
-        "date_modified" : "2024-07-02T22:07:16+05:30",
-        "id" : "http://localhost:1313/techblogs/techblogs2/",
-        "url" : "http://localhost:1313/techblogs/techblogs2/",
-        "author" : {
-          "name" : "Aravind Yamana"
-        },
-        "content_html" : "\u003cp\u003eHAR (Http Archive Resource)\u003c/p\u003e\n\u003cp\u003ehi\u003c/p\u003e\n"
-    },
-    {
         "title" : "Future of QA",
         "date_published" : "2023-01-20T08:00:00Z",
         "date_modified" : "2023-01-20T08:00:00Z",

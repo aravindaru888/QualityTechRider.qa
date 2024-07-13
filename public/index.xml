@@ -131,17 +131,6 @@ These commands cover the essential functionality needed to create, develop, and 
     </item>
     
     <item>
-      <title>Gatling</title>
-      <link>http://localhost:1313/techblogs/techblogs2/</link>
-      <pubDate>Tue, 02 Jul 2024 22:07:16 +0530</pubDate>
-      
-      <guid>http://localhost:1313/techblogs/techblogs2/</guid>
-      <description>&lt;p&gt;HAR (Http Archive Resource)&lt;/p&gt;
-&lt;p&gt;hi&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
       <title>Future of QA</title>
       <link>http://localhost:1313/techblogs/futureoftesting/</link>
       <pubDate>Fri, 20 Jan 2023 08:00:00 +0000</pubDate>
@@ -303,6 +292,39 @@ The Gatling DSL is a powerful tool that simplifies the creation and management o
       
       <guid>http://localhost:1313/tricksandtips/tipsandtricksforgit/</guid>
       <description>&lt;h1 id=&#34;this-is-just-a-sample-tricks-page&#34;&gt;This is just a sample tricks page&lt;/h1&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Now</title>
+      <link>http://localhost:1313/now/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/now/</guid>
+      <description>&lt;h2 id=&#34;-what-im-up-to&#34;&gt;⭐ What I&amp;rsquo;m up to&lt;/h2&gt;
+&lt;p&gt;I live in Bengaluru and currently work at &lt;a href=&#34;https://www.thoughtworks.com/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34; &gt;ThoughtWorks&lt;/a&gt; as a Senior Consultant - Quality Analyst.&lt;/p&gt;
+&lt;p&gt;Recently , I have moved to Banglore,India from London,UK after working for 2 years in UK&lt;/p&gt;
+&lt;h2 id=&#34;-learning&#34;&gt;🤓 Learning&lt;/h2&gt;
+&lt;p&gt;Right now I&amp;rsquo;m working on improving my Non Function Testing skills. I&amp;rsquo;m focusing on &lt;a href=&#34;https://portswigger.net/burp&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34; &gt;BurpSuite&lt;/a&gt; at the moment.&lt;/p&gt;
+&lt;h2 id=&#34;-fitness&#34;&gt;🤸🏽‍♂️ Fitness&lt;/h2&gt;
+&lt;p&gt;I&amp;rsquo;m currently getting back into going to the gym regularly 🏋🏽‍♂️&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Verify</title>
+      <link>http://localhost:1313/verify/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/verify/</guid>
+      <description>&lt;p&gt;This page serves as record for my online identity. It is inspired by &lt;a href=&#34;https://www.mollywhite.net/verify/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34; &gt;Molly White&amp;#39;s verify page.&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;The accounts listed below are the public facing accounts I use online:&lt;/p&gt;
+&lt;p&gt;GitHub - &lt;a href=&#34;https://github.com/aravindaru888/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34; &gt;aravindaru888&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Linkedin - &lt;a href=&#34;https://www.linkedin.com/in/aravind-yamana-8b86b8214&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34; &gt;Aravind Yamana&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Twitter/X - &lt;a href=&#34;https://x.com/AravindTweets7?t=HWYVZgsYY0d1OoIvj_WX-g&amp;amp;s=09_&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34; &gt;@Aravind Yamana&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;My main email address is &amp;ldquo;&lt;a href=&#34;mailto:arvindaru888@gmail.com&#34; &gt;arvindaru888@gmail.com&lt;/a&gt;&amp;rdquo;&lt;/p&gt;
+&lt;p&gt;If there&amp;rsquo;s an account claiming to be me and it&amp;rsquo;s not one of these accounts on the list, it&amp;rsquo;s probably an impersonator.&lt;/p&gt;
+&lt;p&gt;If you&amp;rsquo;re contacted by someone claiming to be me via a platform not listed above, please feel free to contact me via the accounts listed above to verify if it is me (I will be happy to confirm this privately). In most instances, I will likely &lt;strong&gt;NOT&lt;/strong&gt; reachout to you via an account that is not listed on this page.&lt;/p&gt;
 </description>
     </item>
     
